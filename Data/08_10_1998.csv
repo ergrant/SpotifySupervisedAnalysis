@@ -1,122 +1,122 @@
-,name,danceability,energy,loudness,speechiness,acousticness,liveness,tempo
-0,Just What I Needed,0.619,0.579,-9.307,0.0473,0.0152,0.0858,127.224
-1,Holy (feat. Chance The Rapper),0.673,0.704,-8.056,0.36,0.196,0.0898,86.919
-2,Reckless,0.849,0.362,-8.585,0.41,0.519,0.233,81.143
-3,Sledgehammer,0.657,0.685,-5.203,0.0334,0.0246,0.037,96.458
-4,Mandolin Rain,0.563,0.42,-12.566,0.0311,0.818,0.122,139.373
-5,What a Fool Believes,0.758,0.378,-15.308,0.0449,0.284,0.049,120.736
-6,Monte Carlo,0.797,0.625,-4.893,0.0518,0.084,0.222,145.008
-7,Impostor Syndrome,0.717,0.567,-9.166,0.0329,0.6,0.205,114.976
-8,First Love / Late Spring,0.443,0.545,-8.196,0.0273,0.000813,0.202,99.914
-9,bloodstream,0.59,0.647,-6.195,0.0246,0.483,0.141,172.033
-10,Dreams Tonite,0.511,0.622,-5.727,0.0242,0.0108,0.127,99.934
-11,Runner,0.527,0.827,-6.083,0.0392,0.0817,0.126,157.3
-12,Right Side of My Neck,0.72,0.515,-9.072,0.0262,0.00126,0.331,117.048
-13,Sick and Tired (ft. Machine Gun Kelly and Travis Barker),0.748,0.492,-8.584,0.0498,0.151,0.146,145.097
-14,Peach Jam,0.857,0.668,-6.816,0.052,0.0175,0.101,89.986
-15,Alone Together,0.601,0.565,-6.46,0.174,0.478,0.195,75.377
-16,Pressure Love,0.697,0.58,-5.654,0.0301,0.351,0.135,120.028
-17,Alphabet Soup,0.741,0.479,-6.822,0.109,0.255,0.11,73.986
-18,Deadman's Wonderland,0.712,0.457,-12.419,0.067,0.383,0.321,70.682
-19,Freeze Frame,0.699,0.522,-6.841,0.0295,0.124,0.104,130.068
-20,blind,0.765,0.663,-5.221,0.0661,0.154,0.0925,150.099
-21,No Sleep,0.653,0.711,-6.454,0.0623,0.109,0.443,160.048
-22,Love Kills - Remastered,0.467,0.716,-7.744,0.0299,0.00199,0.269,108.287
-23,Home Sweet Home,0.403,0.777,-6.416,0.0354,0.0999,0.124,76.329
-24,Surrender,0.577,0.385,-14.092,0.0372,0.0267,0.27,125.917
-25,Here for You,0.467,0.641,-5.623,0.0301,0.00751,0.125,125.018
-26,Peanut Butter Waffles,0.688,0.592,-8.759,0.0347,0.352,0.11,149.998
-27,Fly You to the Moon,0.478,0.336,-10.51,0.0538,0.815,0.093,80.552
-28,Sunday,0.71,0.643,-14.703,0.194,0.0451,0.0628,167.948
-29,CITY OF ANGELS,0.686,0.541,-4.993,0.0493,0.042,0.0675,120.082
-30,Wrong Man (feat. Ariana Deboo & Dave B),0.745,0.471,-8.608,0.269,0.32,0.04,84.991
-31,Sunshine,0.762,0.624,-6.299,0.0951,0.0942,0.115,149.95
-32,With You,0.654,0.56,-9.363,0.102,0.213,0.128,74.985
-33,Mess,0.655,0.56,-7.97,0.0389,0.124,0.106,154.957
-34,Gorgeous,0.833,0.545,-4.004,0.462,0.352,0.0915,77.035
-35,for the people in the back,0.778,0.738,-4.413,0.0588,0.109,0.393,156.071
-36,Nikes On,0.825,0.313,-9.564,0.218,0.635,0.107,83.014
-37,Butterflies,0.54,0.744,-10.942,0.405,0.307,0.103,92.207
-38,Young & Alive,0.716,0.563,-5.486,0.0425,0.326,0.119,86.005
-39,wave,0.744,0.43,-9.835,0.162,0.262,0.104,89.993
-40,Burberry Headband,0.714,0.647,-6.865,0.037,0.598,0.0943,150.992
-41,Break Ups Suck Ass,0.605,0.327,-7.659,0.037,0.866,0.125,179.839
-42,Swimming,0.751,0.303,-11.233,0.258,0.281,0.145,79.533
-43,Shawty,0.711,0.719,-5.016,0.173,0.0402,0.0775,175.903
-44,Babydoll,0.762,0.604,-5.296,0.11,0.114,0.0271,168.007
-45,"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",0.818,0.623,-5.901,0.043,0.201,0.112,120.104
-46,lowkey,0.752,0.494,-8.18,0.0559,0.432,0.0869,117.901
-47,Good Enough,0.809,0.594,-8.025,0.0342,0.571,0.153,87.523
-48,Fly Me To The Moon (In Other Words),0.668,0.26,-14.256,0.0523,0.453,0.0621,119.416
-49,Your Smiling Face,0.683,0.515,-10.932,0.0592,0.137,0.0816,88.827
-50,The Great Escape,0.423,0.94,-4.012,0.0635,0.00166,0.178,149.934
-51,No Way!,0.665,0.709,-4.117,0.0407,0.174,0.142,76.058
-52,Floating,0.813,0.513,-8.619,0.315,0.45,0.235,139.983
-53,no song without you,0.778,0.462,-12.729,0.0359,0.463,0.11,105.45
-54,King of Anything,0.676,0.762,-4.172,0.0351,0.461,0.0574,119.003
-55,Why Not Me,0.905,0.721,-6.922,0.31,0.48,0.528,145.958
-56,Morning,0.462,0.438,-8.227,0.0953,0.563,0.181,107.364
-57,Candle,0.77,0.703,-6.032,0.0358,0.124,0.0626,94.959
-58,peanut butter,0.667,0.466,-7.565,0.176,0.703,0.0807,85.949
-59,OUTTA MY MIND,0.689,0.463,-8.121,0.0365,0.066,0.145,86.998
-60,Driving to Hawaii,0.348,0.638,-4.907,0.0403,0.719,0.255,186.826
-61,minimal,0.575,0.679,-4.442,0.0432,0.547,0.34,169.886
-62,IRIS,0.725,0.543,-9.089,0.0388,0.28,0.113,140.057
-63,I Give Up,0.869,0.651,-4.652,0.0563,0.512,0.109,140.034
-64,Lovesong (The Way) [feat. Bluets],0.555,0.468,-7.64,0.0592,0.399,0.172,113.345
-65,like i need u,0.748,0.465,-8.163,0.0869,0.399,0.294,119.872
-66,Nice Colors,0.817,0.679,-5.695,0.161,0.359,0.112,136.184
-67,YEAH RIGHT,0.672,0.588,-9.573,0.133,0.619,0.0992,169.033
-68,Come True,0.85,0.677,-5.575,0.251,0.503,0.0541,125.067
-69,"she likes spring, I prefer winter",0.326,0.66,-6.68,0.0674,0.552,0.264,78.29
-70,Always,0.669,0.374,-7.349,0.0385,0.777,0.326,127.938
-71,ROYL,0.663,0.689,-5.585,0.0295,0.348,0.157,149.96
-72,didya think,0.611,0.77,-4.612,0.0486,0.00145,0.425,141.986
-73,Stay,0.665,0.721,-4.082,0.0269,0.00415,0.127,127.031
-74,Lay Me Down,0.668,0.78,-6.481,0.0901,0.0487,0.107,170.032
-75,Not The End,0.76,0.623,-4.375,0.245,0.414,0.0984,159.89
-76,Goodbyes,0.543,0.674,-4.807,0.0344,0.127,0.0715,149.898
-77,Phone Numbers,0.884,0.539,-6.389,0.208,0.239,0.0805,85.008
-78,Prom Queen,0.528,0.797,-7.487,0.0485,0.000391,0.14,143.785
-79,I Love You So,0.578,0.669,-4.898,0.0377,0.65,0.13,75.995
-80,Summer on You,0.811,0.447,-6.55,0.0414,0.636,0.462,99.995
-81,Love Me Less (feat. Quinn XCII),0.732,0.856,-2.2,0.0929,0.0828,0.323,145.034
-82,stay,0.786,0.695,-6.627,0.16,0.325,0.151,80.022
-83,Callin',0.611,0.328,-8.43,0.0368,0.851,0.109,137.132
-84,False Direction,0.68,0.584,-10.459,0.0617,0.0304,0.106,149.976
-85,Week,0.643,0.705,-4.591,0.031,0.17,0.107,82.001
-86,Let's Fall in Love for the Night,0.737,0.408,-7.941,0.104,0.802,0.171,127.921
-87,Sanctuary,0.552,0.65,-7.199,0.128,0.422,0.372,167.788
-88,imagine if,0.907,0.452,-6.673,0.187,0.568,0.244,92.063
-89,Shine On Top,0.808,0.754,-4.99,0.171,0.137,0.14,82.547
-90,Fuck No (feat. Brasstracks & PhiloSofie),0.817,0.487,-6.585,0.474,0.545,0.336,70.949
-91,Painkiller,0.683,0.42,-6.51,0.0542,0.0875,0.225,128.621
-92,La La Land (feat. YG),0.774,0.473,-5.122,0.0569,0.221,0.222,97.953
-93,AVOUTERIE,0.814,0.484,-7.399,0.0369,0.0237,0.103,117.983
-94,My Little,0.329,0.713,-6.484,0.0397,0.17,0.508,138.563
-95,Cleaner Air,0.717,0.797,-5.393,0.0368,0.876,0.0836,77.492
-96,Stay Together,0.659,0.589,-4.004,0.0541,0.174,0.095,72.015
-97,Driving to Hawaii,0.346,0.637,-4.919,0.0403,0.719,0.263,186.836
-98,Pleaser,0.497,0.914,-4.308,0.0455,0.126,0.274,148.893
-99,Electric Love,0.611,0.797,-7.627,0.0533,0.00543,0.26,120.041
-100,1980s Horror Film II,0.593,0.658,-4.957,0.0304,0.0038,0.0804,116.021
-101,Lost in You,0.771,0.607,-12.02,0.113,0.336,0.122,90.039
-102,Darling,0.664,0.548,-7.642,0.0461,0.179,0.208,128.991
-103,Goodbye Baby,0.747,0.422,-10.008,0.0294,0.664,0.392,111.141
-104,comethru (bonus track),0.795,0.18,-12.293,0.0608,0.59,0.621,94.02
-105,First Aid,0.599,0.458,-4.366,0.0266,0.0114,0.0996,69.971
-106,Chateau (Feel Alright),0.641,0.365,-11.763,0.027,0.43,0.297,134.881
-107,Goodie Bag,0.739,0.522,-12.304,0.151,0.821,0.233,138.263
-108,Peach,0.646,0.681,-5.847,0.0764,0.683,0.107,131.896
-109,If You Want To,0.666,0.527,-5.851,0.034,0.109,0.132,115.979
-110,Habit,0.767,0.392,-11.996,0.0945,0.154,0.108,125.017
-111,Skin,0.674,0.616,-3.471,0.0272,0.512,0.331,94.934
-112,hot girl bummer,0.778,0.559,-7.109,0.0776,0.128,0.399,129.989
-113,1 SIDED LOVE,0.584,0.42,-7.827,0.0322,0.236,0.119,90.051
-114,Life Must Go On,0.715,0.551,-6.486,0.096,0.126,0.314,90.923
-115,Jackie Chan,0.749,0.641,-5.268,0.0444,0.538,0.0775,140.08
-116,Summer Girls,0.814,0.808,-5.034,0.155,0.161,0.0616,99.816
-117,Smooth (feat. Rob Thomas),0.612,0.924,-3.877,0.0316,0.159,0.103,115.953
-118,Karma Chameleon,0.661,0.552,-12.385,0.0337,0.214,0.206,92.056
-119,We Built This City,0.661,0.908,-4.897,0.039,0.052,0.0708,144.091
-120,Snow (Hey Oh),0.427,0.9,-3.674,0.0499,0.116,0.119,104.655
+,name,uri,danceability,energy,loudness,speechiness,acousticness,liveness
+0,Just What I Needed,spotify:track:4alHo6RGd0D3OUbTPExTHN,0.619,0.579,-9.307,0.0473,0.0152,0.0858
+1,Holy (feat. Chance The Rapper),spotify:track:5u1n1kITHCxxp8twBcZxWy,0.673,0.704,-8.056,0.36,0.196,0.0898
+2,Reckless,spotify:track:3UJS9aEUbtYO8kMl1IK1r3,0.849,0.362,-8.585,0.41,0.519,0.233
+3,Sledgehammer,spotify:track:029NqmIySn1kOY305AAhxT,0.657,0.685,-5.203,0.0334,0.0246,0.037
+4,Mandolin Rain,spotify:track:3T8Ye4NB0MQhcEcxzMdAuH,0.563,0.42,-12.566,0.0311,0.818,0.122
+5,What a Fool Believes,spotify:track:2yBVeksU2EtrPJbTu4ZslK,0.758,0.378,-15.308,0.0449,0.284,0.049
+6,Monte Carlo,spotify:track:3CXCtE8qJIFtUJJZRKCcXC,0.797,0.625,-4.893,0.0518,0.084,0.222
+7,Impostor Syndrome,spotify:track:3bpGAsjsCIMTz98E7injb2,0.717,0.567,-9.166,0.0329,0.6,0.205
+8,First Love / Late Spring,spotify:track:1Ac5BDsGUMQ3tsW2vnc52x,0.443,0.545,-8.196,0.0273,0.000813,0.202
+9,bloodstream,spotify:track:3VJ8JnA1femj0x5KCcfBpT,0.59,0.647,-6.195,0.0246,0.483,0.141
+10,Dreams Tonite,spotify:track:0O6GYVGXctDNaczOuhYk9d,0.511,0.622,-5.727,0.0242,0.0108,0.127
+11,Runner,spotify:track:2FLW1FnWZxGUuiDgsLDGOG,0.527,0.827,-6.083,0.0392,0.0817,0.126
+12,Right Side of My Neck,spotify:track:5QKE7ODTNKUqo9ZAyhtZ5J,0.72,0.515,-9.072,0.0262,0.00126,0.331
+13,Sick and Tired (ft. Machine Gun Kelly and Travis Barker),spotify:track:0DILU9jjSTnCv1dcbUH3ib,0.748,0.492,-8.584,0.0498,0.151,0.146
+14,Peach Jam,spotify:track:6dktyiCWz2JYGmcPQ5D5dY,0.857,0.668,-6.816,0.052,0.0175,0.101
+15,Alone Together,spotify:track:7vJfDxu8HB8vLCiDDK8qLr,0.601,0.565,-6.46,0.174,0.478,0.195
+16,Pressure Love,spotify:track:6A8kyzSMSsVulz9P2HdGPf,0.697,0.58,-5.654,0.0301,0.351,0.135
+17,Alphabet Soup,spotify:track:06qh8BUkErQnComNc7VnRU,0.741,0.479,-6.822,0.109,0.255,0.11
+18,Deadman's Wonderland,spotify:track:7IOqvo0gT9fCQFsvJLbcMo,0.712,0.457,-12.419,0.067,0.383,0.321
+19,Freeze Frame,spotify:track:29NNsvdOkZ7dKMFD5g9JKQ,0.699,0.522,-6.841,0.0295,0.124,0.104
+20,blind,spotify:track:6d1ffV5RisInvrDxkLgBxe,0.765,0.663,-5.221,0.0661,0.154,0.0925
+21,No Sleep,spotify:track:2kzRSiyignH8yzPTrWvyPo,0.653,0.711,-6.454,0.0623,0.109,0.443
+22,Love Kills - Remastered,spotify:track:23DpTSrlyQCkjG8qChwWX6,0.467,0.716,-7.744,0.0299,0.00199,0.269
+23,Home Sweet Home,spotify:track:4zXvB4MoQD8onk0NCZbeHG,0.403,0.777,-6.416,0.0354,0.0999,0.124
+24,Surrender,spotify:track:4EEAHK0c3M7CCgcQt9bfts,0.577,0.385,-14.092,0.0372,0.0267,0.27
+25,Here for You,spotify:track:3PcdvDVTHoRd46A3vPrRG2,0.467,0.641,-5.623,0.0301,0.00751,0.125
+26,Peanut Butter Waffles,spotify:track:1qRabaD5y56JZzQSm4qB0n,0.688,0.592,-8.759,0.0347,0.352,0.11
+27,Fly You to the Moon,spotify:track:2RHVebvnbPxqx2MMlSjgrx,0.478,0.336,-10.51,0.0538,0.815,0.093
+28,Sunday,spotify:track:1rkczjrPToWgR7ldFn2fzu,0.71,0.643,-14.703,0.194,0.0451,0.0628
+29,CITY OF ANGELS,spotify:track:6ap9lSRJ0iLriGLqoJ44cq,0.686,0.541,-4.993,0.0493,0.042,0.0675
+30,Wrong Man (feat. Ariana Deboo & Dave B),spotify:track:2iCsHWWYzSCJ6Z0MyeOv6h,0.745,0.471,-8.608,0.269,0.32,0.04
+31,Sunshine,spotify:track:7Adzy6kc6H1Da4wBVZ1XLN,0.762,0.624,-6.299,0.0951,0.0942,0.115
+32,With You,spotify:track:6kq7CvFFZusechOUuuMftM,0.654,0.56,-9.363,0.102,0.213,0.128
+33,Mess,spotify:track:4Zc4kyc7VSdZNF9wFeBIcz,0.655,0.56,-7.97,0.0389,0.124,0.106
+34,Gorgeous,spotify:track:75Q69chmd8CEZbVsA4CDMm,0.833,0.545,-4.004,0.462,0.352,0.0915
+35,for the people in the back,spotify:track:0cih1F5wMrqk7boDneVxkB,0.778,0.738,-4.413,0.0588,0.109,0.393
+36,Nikes On,spotify:track:5z14e4rPImlgk40W33dt0U,0.825,0.313,-9.564,0.218,0.635,0.107
+37,Butterflies,spotify:track:6kVku2CoE7fbD29miiutzw,0.54,0.744,-10.942,0.405,0.307,0.103
+38,Young & Alive,spotify:track:5RsKelNxucrDxgMbZ3vd3W,0.716,0.563,-5.486,0.0425,0.326,0.119
+39,wave,spotify:track:3YTqCVdqwsql9yQKshguT6,0.744,0.43,-9.835,0.162,0.262,0.104
+40,Burberry Headband,spotify:track:3fB96InfRUB2DCjbrfzKUt,0.714,0.647,-6.865,0.037,0.598,0.0943
+41,Break Ups Suck Ass,spotify:track:2Yj1sRA7UENRp7p6tt8E1k,0.605,0.327,-7.659,0.037,0.866,0.125
+42,Swimming,spotify:track:6frrSEJc3nE3FESO74Xxxe,0.751,0.303,-11.233,0.258,0.281,0.145
+43,Shawty,spotify:track:3tCCH9aaiKRmwOjvIKq76d,0.711,0.719,-5.016,0.173,0.0402,0.0775
+44,Babydoll,spotify:track:7yNf9YjeO5JXUE3JEBgnYc,0.762,0.604,-5.296,0.11,0.114,0.0271
+45,"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",spotify:track:6lIRYe72fn1pf7TNqfI0ul,0.818,0.623,-5.901,0.043,0.201,0.112
+46,lowkey,spotify:track:5TTXEcfsYLh6fTarLaevTi,0.752,0.494,-8.18,0.0559,0.432,0.0869
+47,Good Enough,spotify:track:2h31JBzjZP1XztFIhVZ5eB,0.809,0.594,-8.025,0.0342,0.571,0.153
+48,Fly Me To The Moon (In Other Words),spotify:track:5b7OgznPJJr1vHNYGyvxau,0.668,0.26,-14.256,0.0523,0.453,0.0621
+49,Your Smiling Face,spotify:track:1Q34tAtTWI6RdW1qzFQiPb,0.683,0.515,-10.932,0.0592,0.137,0.0816
+50,The Great Escape,spotify:track:0dQVYG5kXtmlDi9haVuQ6T,0.423,0.94,-4.012,0.0635,0.00166,0.178
+51,No Way!,spotify:track:0yYwS7CXKIPC4kWPvZQfsT,0.665,0.709,-4.117,0.0407,0.174,0.142
+52,Floating,spotify:track:5a4XDTHOXcnxBNBV6EODec,0.813,0.513,-8.619,0.315,0.45,0.235
+53,no song without you,spotify:track:3KKUf8F2hktFscLgbH4YwR,0.778,0.462,-12.729,0.0359,0.463,0.11
+54,King of Anything,spotify:track:3VA8T3rNy5V24AXxNK5u9E,0.676,0.762,-4.172,0.0351,0.461,0.0574
+55,Why Not Me,spotify:track:1gewwJHPkvysxLEGgOKQuB,0.905,0.721,-6.922,0.31,0.48,0.528
+56,Morning,spotify:track:54Yappwod1fELR5zb2gDBn,0.462,0.438,-8.227,0.0953,0.563,0.181
+57,Candle,spotify:track:0XNu9Mqd7TLnKRNVHpe6T5,0.77,0.703,-6.032,0.0358,0.124,0.0626
+58,peanut butter,spotify:track:4K9Jh6jnw0P4FZUwrG6Keb,0.667,0.466,-7.565,0.176,0.703,0.0807
+59,OUTTA MY MIND,spotify:track:7zTTDkkLkJ2iHAqq1daDCr,0.689,0.463,-8.121,0.0365,0.066,0.145
+60,Driving to Hawaii,spotify:track:1l9hj8jFK4bEsRguwqMrKJ,0.348,0.638,-4.907,0.0403,0.719,0.255
+61,minimal,spotify:track:28sNP4vXS6EtFr2VKPhCTQ,0.575,0.679,-4.442,0.0432,0.547,0.34
+62,IRIS,spotify:track:61jCFoNIuzQnc9UovuzNVW,0.725,0.543,-9.089,0.0388,0.28,0.113
+63,I Give Up,spotify:track:7a30GP1ZKKdzvWWL04uiyD,0.869,0.651,-4.652,0.0563,0.512,0.109
+64,Lovesong (The Way) [feat. Bluets],spotify:track:4JkKXuKp2RdbE5M7L4z19Z,0.555,0.468,-7.64,0.0592,0.399,0.172
+65,like i need u,spotify:track:7ivYWXqrPLs66YwakDuSim,0.748,0.465,-8.163,0.0869,0.399,0.294
+66,Nice Colors,spotify:track:5IU7CxHmY3nogc7ht5t6tM,0.817,0.679,-5.695,0.161,0.359,0.112
+67,YEAH RIGHT,spotify:track:1VGzxJnVQND7Cg5H5wGj14,0.672,0.588,-9.573,0.133,0.619,0.0992
+68,Come True,spotify:track:20AjVjcuycZuivf5x3pCrL,0.85,0.677,-5.575,0.251,0.503,0.0541
+69,"she likes spring, I prefer winter",spotify:track:2sFF0K2eHIClZYUqIbAwdb,0.326,0.66,-6.68,0.0674,0.552,0.264
+70,Always,spotify:track:3SxSrUogj4LpAkLKXeTtTQ,0.669,0.374,-7.349,0.0385,0.777,0.326
+71,ROYL,spotify:track:1C6ABWzxA5DBUpbTxNyTyB,0.663,0.689,-5.585,0.0295,0.348,0.157
+72,didya think,spotify:track:50uarv7yXest5en0VajL4i,0.611,0.77,-4.612,0.0486,0.00145,0.425
+73,Stay,spotify:track:6pcUM78WIkEfPzsWPIqG3l,0.665,0.721,-4.082,0.0269,0.00415,0.127
+74,Lay Me Down,spotify:track:4L0nc0tHfDjr3HlAm1EFeu,0.668,0.78,-6.481,0.0901,0.0487,0.107
+75,Not The End,spotify:track:4ixFMrVEG00LY963KBkIXE,0.76,0.623,-4.375,0.245,0.414,0.0984
+76,Goodbyes,spotify:track:6kpKgO0iPsRkmslT5woRh5,0.543,0.674,-4.807,0.0344,0.127,0.0715
+77,Phone Numbers,spotify:track:3f9Mzvd3URfbbIJBX4pz9Z,0.884,0.539,-6.389,0.208,0.239,0.0805
+78,Prom Queen,spotify:track:3MtGstTnbaZaVOLcfpuiiE,0.528,0.797,-7.487,0.0485,0.000391,0.14
+79,I Love You So,spotify:track:1175r6ZmkUjX8dRJLz9Ohk,0.578,0.669,-4.898,0.0377,0.65,0.13
+80,Summer on You,spotify:track:07ipXN6CNTw34qwSYePKpg,0.811,0.447,-6.55,0.0414,0.636,0.462
+81,Love Me Less (feat. Quinn XCII),spotify:track:2tOOcDDYkh0PSjr6GwPEAJ,0.732,0.856,-2.2,0.0929,0.0828,0.323
+82,stay,spotify:track:1PiEAH9iAT5mXijTfcranf,0.786,0.695,-6.627,0.16,0.325,0.151
+83,Callin',spotify:track:0Iq41nl0uuZqPCF5gKH3Li,0.611,0.328,-8.43,0.0368,0.851,0.109
+84,False Direction,spotify:track:3IxKc2OLHw5ltmUkQKoUkV,0.68,0.584,-10.459,0.0617,0.0304,0.106
+85,Week,spotify:track:3S8fs8StVmSHn9Afz0g4Lk,0.643,0.705,-4.591,0.031,0.17,0.107
+86,Let's Fall in Love for the Night,spotify:track:7kQkmyoHCEqwe7QwDbkSXM,0.737,0.408,-7.941,0.104,0.802,0.171
+87,Sanctuary,spotify:track:3xaugmCyXrVkrDTXbFkMW3,0.552,0.65,-7.199,0.128,0.422,0.372
+88,imagine if,spotify:track:7nDdxPUC5LbxmspeqkOzt8,0.907,0.452,-6.673,0.187,0.568,0.244
+89,Shine On Top,spotify:track:4xgtWOWGwxehDX8S21di2K,0.808,0.754,-4.99,0.171,0.137,0.14
+90,Fuck No (feat. Brasstracks & PhiloSofie),spotify:track:0WQZG47PGOUzuQuMpB8gC0,0.817,0.487,-6.585,0.474,0.545,0.336
+91,Painkiller,spotify:track:1YlulsUKDduOmC7WxvXYPW,0.683,0.42,-6.51,0.0542,0.0875,0.225
+92,La La Land (feat. YG),spotify:track:4cEONREpY8NQJMuGQP95Kl,0.774,0.473,-5.122,0.0569,0.221,0.222
+93,AVOUTERIE,spotify:track:0CmCeafkhsI3c16Dxn71he,0.814,0.484,-7.399,0.0369,0.0237,0.103
+94,My Little,spotify:track:4E3U39bAmc61R0hZu2xciI,0.329,0.713,-6.484,0.0397,0.17,0.508
+95,Cleaner Air,spotify:track:3uwrczwM9A3xX63jlcRhIC,0.717,0.797,-5.393,0.0368,0.876,0.0836
+96,Stay Together,spotify:track:5R4HqXCZ6uTjxxnGdLt2S6,0.659,0.589,-4.004,0.0541,0.174,0.095
+97,Driving to Hawaii,spotify:track:78ECvz2vs1obDkLdbMEdJK,0.346,0.637,-4.919,0.0403,0.719,0.263
+98,Pleaser,spotify:track:11zf7m4vw9Ze7cer9Nyhk1,0.497,0.914,-4.308,0.0455,0.126,0.274
+99,Electric Love,spotify:track:2GiJYvgVaD2HtM8GqD9EgQ,0.611,0.797,-7.627,0.0533,0.00543,0.26
+100,1980s Horror Film II,spotify:track:3VzULnaqPKf1deQyZ5W4Ah,0.593,0.658,-4.957,0.0304,0.0038,0.0804
+101,Lost in You,spotify:track:5mkRGTbm3BwPzNQL9oBV9e,0.771,0.607,-12.02,0.113,0.336,0.122
+102,Darling,spotify:track:47o0JpUemOGkFRY3gEUwxA,0.664,0.548,-7.642,0.0461,0.179,0.208
+103,Goodbye Baby,spotify:track:70QqoQ3krRFUHfEzit7vjT,0.747,0.422,-10.008,0.0294,0.664,0.392
+104,comethru (bonus track),spotify:track:1pV9TLnQdOHbvourRO7x4m,0.795,0.18,-12.293,0.0608,0.59,0.621
+105,First Aid,spotify:track:2imAA5ofcn4dCRVNjKyEq3,0.599,0.458,-4.366,0.0266,0.0114,0.0996
+106,Chateau (Feel Alright),spotify:track:41mclLjggl2nmbYpRisKrh,0.641,0.365,-11.763,0.027,0.43,0.297
+107,Goodie Bag,spotify:track:4vHNeBWDQpVCmGbaccrRzi,0.739,0.522,-12.304,0.151,0.821,0.233
+108,Peach,spotify:track:5JRMqkR82k2fdDEAim9SCN,0.646,0.681,-5.847,0.0764,0.683,0.107
+109,If You Want To,spotify:track:7I1kle4TNmkfednJDKo8GR,0.666,0.527,-5.851,0.034,0.109,0.132
+110,Habit,spotify:track:4BsLwvaJOTOHDNg7xMpvrL,0.767,0.392,-11.996,0.0945,0.154,0.108
+111,Skin,spotify:track:467t3218y3yihFcyDGWjr0,0.674,0.616,-3.471,0.0272,0.512,0.331
+112,hot girl bummer,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,0.778,0.559,-7.109,0.0776,0.128,0.399
+113,1 SIDED LOVE,spotify:track:39bs2V8huzcmWoeSlHKZeP,0.584,0.42,-7.827,0.0322,0.236,0.119
+114,Life Must Go On,spotify:track:3vmsnZF4KPLjbDgZEqwTdL,0.715,0.551,-6.486,0.096,0.126,0.314
+115,Jackie Chan,spotify:track:6Tb8Fse6LfJ0CRZVlNjHF5,0.749,0.641,-5.268,0.0444,0.538,0.0775
+116,Summer Girls,spotify:track:7uYroF9RRrhRJBrigRvB6H,0.814,0.808,-5.034,0.155,0.161,0.0616
+117,Smooth (feat. Rob Thomas),spotify:track:3i3GeK0qLQybu4ah42YmCY,0.612,0.924,-3.877,0.0316,0.159,0.103
+118,Karma Chameleon,spotify:track:3XDeeP9wBZzGhIPZmLfEEx,0.661,0.552,-12.385,0.0337,0.214,0.206
+119,We Built This City,spotify:track:7aHRctaQ7vjxVTVmY8OhAA,0.661,0.908,-4.897,0.039,0.052,0.0708
+120,Snow (Hey Oh),spotify:track:6fgbQt13JlpN59PytgTMsA,0.427,0.9,-3.674,0.0499,0.116,0.119

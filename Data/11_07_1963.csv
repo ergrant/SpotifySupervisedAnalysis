@@ -1,302 +1,302 @@
-,name,danceability,energy,loudness,speechiness,acousticness,liveness,tempo
-0,I Don't Want to Talk About It - 2008 Remaster,0.472,0.373,-12.98,0.0262,0.872,0.147,135.193
-1,Perfect,0.599,0.448,-6.312,0.0232,0.163,0.106,95.05
-2,Hot Tears,0.699,0.453,-9.67,0.0428,0.0622,0.0958,150.231
-3,Without A Word,0.579,0.171,-14.495,0.0303,0.901,0.111,136.311
-4,Águas De Março,0.654,0.393,-13.392,0.129,0.865,0.123,143.801
-5,I'm Like A Bird,0.622,0.616,-5.107,0.0349,0.147,0.218,89.673
-6,Godspeed,0.395,0.174,-10.313,0.043,0.916,0.104,73.773
-7,exile (feat. Bon Iver),0.298,0.38,-8.426,0.0287,0.778,0.11,75.602
-8,By My Side (feat. Rosie Carney),0.437,0.108,-17.152,0.0312,0.936,0.11,69.388
-9,Flotten,0.51,0.294,-17.615,0.0292,0.861,0.112,74.153
-10,Against All Odds (Take a Look at Me Now) - 2016 Remaster,0.58,0.498,-6.901,0.0277,0.198,0.132,116.271
-11,Beneath Your Beautiful (feat. Emeli Sandé),0.558,0.522,-5.857,0.036,0.228,0.104,83.977
-12,When I Was Your Man,0.612,0.28,-8.648,0.0434,0.932,0.088,72.795
-13,Video Killed The Radio Star,0.68,0.678,-11.548,0.0754,0.103,0.204,131.165
-14,Dancing In The Moonlight,0.653,0.719,-5.262,0.0363,0.684,0.408,136.153
-15,When Doves Cry,0.729,0.989,-4.613,0.049,0.0102,0.443,126.47
-16,Can We Still Be Friends? - 2015 Remaster,0.57,0.276,-13.47,0.0394,0.748,0.0836,174.288
-17,Follow You Follow Me - 2007 Remaster,0.534,0.715,-9.988,0.0335,0.125,0.0761,93.307
-18,In Too Deep,0.688,0.505,-6.624,0.0251,0.475,0.0852,103.561
-19,In Too Deep (feat. Kiana Ledé),0.661,0.29,-14.568,0.0453,0.605,0.0629,151.887
-20,Coming Home,0.381,0.44,-11.258,0.0307,0.718,0.109,88.941
-21,John My Beloved,0.422,0.0589,-21.116,0.0542,0.991,0.0801,119.212
-22,Dynamite,0.746,0.765,-4.41,0.0993,0.0112,0.0936,114.044
-23,Friends (feat. Bon Iver),0.457,0.477,-9.323,0.102,0.281,0.0914,144.855
-24,8 (circle),0.404,0.408,-10.77,0.0349,0.911,0.117,125.004
-25,So Cool,0.58,0.469,-10.02,0.0332,0.57,0.193,152.867
-26,Nobody,0.877,0.178,-13.987,0.102,0.776,0.107,74.997
-27,Babylon,0.737,0.543,-10.403,0.0374,0.0598,0.103,112.016
-28,Father And Son,0.499,0.33,-11.467,0.0348,0.589,0.102,135.993
-29,"Baby, I Love Your Way - Live",0.518,0.786,-5.739,0.0357,0.448,0.7,72.269
-30,Don't Dream It's Over,0.439,0.422,-17.227,0.0409,0.0148,0.0697,81.833
-31,Weather With You,0.643,0.614,-12.878,0.0279,0.25,0.214,93.982
-32,Fallen,0.688,0.137,-21.644,0.0353,0.801,0.0629,113.336
-33,That's Entertainment,0.567,0.653,-11.524,0.0336,0.211,0.0639,142.218
-34,I Won't Run From It,0.615,0.719,-8.194,0.0325,0.702,0.148,94.988
-35,Lost Without You,0.386,0.136,-9.267,0.0458,0.932,0.0653,67.016
-36,AUATC,0.38,0.416,-10.237,0.0383,0.886,0.156,93.445
-37,Refiner,0.342,0.18,-14.847,0.0364,0.872,0.145,123.979
-38,Brave,0.551,0.836,-3.838,0.0524,0.00502,0.0425,185.063
-39,Gravity,0.27,0.275,-10.357,0.0356,0.834,0.146,168.964
-40,We Find Love,0.51,0.363,-8.635,0.0304,0.853,0.109,78.0
-41,no song without you,0.778,0.462,-12.729,0.0359,0.463,0.11,105.45
-42,Fool For You,0.593,0.287,-11.496,0.0631,0.832,0.104,149.761
-43,I Don't Wanna Be Okay Without You,0.532,0.319,-7.461,0.0288,0.399,0.138,62.984
-44,Fair-Weather Friend,0.68,0.34,-6.985,0.115,0.56,0.0705,131.353
-45,Just The Same,0.426,0.295,-8.337,0.0764,0.637,0.0941,174.379
-46,Photograph,0.397,0.251,-10.346,0.0337,0.946,0.0841,113.712
-47,The Most Beautiful Thing,0.806,0.362,-10.381,0.0345,0.535,0.111,127.502
-48,All Because of You,0.43,0.177,-13.335,0.0311,0.798,0.113,59.255
-49,Teach You - Acoustic,0.497,0.304,-8.526,0.0396,0.899,0.102,156.951
-50,Like Someone In Love,0.597,0.462,-7.816,0.0597,0.649,0.11,71.578
-51,Home Is,0.148,0.147,-19.377,0.0355,0.976,0.0987,104.279
-52,Places We Won't Walk,0.388,0.0859,-16.061,0.0472,0.969,0.108,88.253
-53,Running Away,0.574,0.591,-8.559,0.0762,0.814,0.108,150.429
-54,I Hear a Symphony,0.207,0.243,-8.181,0.0306,0.925,0.118,171.648
-55,Old Fashioned,0.74,0.242,-9.003,0.0472,0.736,0.0972,131.987
-56,He Won't Hold You (feat. Rapsody),0.488,0.364,-12.955,0.123,0.781,0.367,104.924
-57,Home,0.608,0.37,-9.207,0.0306,0.844,0.112,127.631
-58,Don't Know Much (with Aaron Neville),0.401,0.285,-11.005,0.0327,0.657,0.158,130.465
-59,All My Life (with Aaron Neville) - 1999 Remaster,0.602,0.523,-8.753,0.034,0.444,0.05,74.005
-60,Firestone,0.704,0.634,-7.374,0.0428,0.393,0.0952,113.927
-61,Bad Day,0.599,0.785,-4.013,0.0309,0.448,0.151,140.046
-62,This Head I Hold,0.663,0.873,-4.915,0.0328,0.0268,0.261,162.024
-63,I Say a Little Prayer,0.592,0.355,-14.051,0.0352,0.478,0.0585,133.032
-64,The Promise,0.575,0.918,-3.881,0.0585,0.008,0.0394,90.036
-65,Sober,0.657,0.7,-4.911,0.382,0.34,0.0992,82.113
-66,Watch Me Dance,0.771,0.29,-13.413,0.0341,0.323,0.0645,118.003
-67,I Wish,0.787,0.329,-11.869,0.0447,0.187,0.133,86.997
-68,Follow,0.785,0.367,-8.483,0.0363,0.113,0.0902,90.003
-69,Crazy Dream,0.852,0.664,-5.179,0.123,0.12,0.0737,95.815
-70,Man Like You,0.302,0.225,-14.08,0.0313,0.761,0.11,97.418
-71,Isn't She Lovely,0.505,0.481,-16.006,0.435,0.992,0.378,178.601
-72,It Runs Through Me,0.802,0.607,-11.028,0.289,0.205,0.246,96.916
-73,To Find You,0.388,0.128,-13.73,0.0338,0.842,0.103,144.056
-74,Hold Me Now,0.787,0.517,-12.794,0.0332,0.658,0.292,108.186
-75,Would You Be So Kind,0.662,0.614,-9.621,0.204,0.158,0.126,160.068
-76,A Groovy Kind of Love,0.452,0.306,-9.632,0.0274,0.235,0.0989,144.125
-77,If I'm Being Honest,0.435,0.191,-12.436,0.0396,0.919,0.114,112.1
-78,Ain't No Love In The Heart Of The City - Single Version,0.518,0.376,-18.248,0.0431,0.933,0.0976,158.089
-79,Ain't No Sunshine,0.479,0.416,-11.451,0.124,0.457,0.118,79.593
-80,Nights On Broadway,0.573,0.641,-9.196,0.0443,0.235,0.859,88.862
-81,"Jive Talkin' - From ""Saturday Night Fever"" Soundtrack",0.811,0.545,-12.969,0.0579,0.155,0.156,105.911
-82,Fanny (Be Tender With My Love),0.449,0.531,-9.815,0.0263,0.192,0.0858,95.138
-83,How Can You Mend A Broken Heart,0.314,0.299,-12.019,0.0437,0.568,0.0904,210.894
-84,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",0.632,0.683,-6.434,0.0383,0.163,0.847,105.955
-85,"Night Fever - From ""Saturday Night Fever"" Soundtrack",0.733,0.795,-7.224,0.0249,0.0266,0.083,109.122
-86,Love So Right,0.575,0.405,-13.346,0.0279,0.345,0.645,80.983
-87,As,0.399,0.238,-13.727,0.0329,0.9,0.0809,94.711
-88,Pretty Great,0.802,0.529,-6.044,0.0425,0.333,0.23,130.045
-89,What Have I Done,0.625,0.581,-5.466,0.0358,0.191,0.117,121.946
-90,Outnumbered,0.614,0.684,-5.79,0.157,0.247,0.0976,156.85
-91,Power Over Me,0.319,0.841,-4.232,0.147,0.0518,0.106,173.868
-92,I Won't Say (I'm In Love),0.675,0.456,-10.354,0.0512,0.231,0.173,121.235
-93,Don't Know Why,0.367,0.23,-16.453,0.0418,0.875,0.106,204.883
-94,Time Alone With You (feat. Daniel Caesar),0.669,0.352,-11.18,0.455,0.322,0.484,76.851
-95,Hideaway,0.39,0.39,-15.14,0.0529,0.744,0.0771,147.055
-96,Feel (feat. Lianne La Havas),0.611,0.134,-13.96,0.0537,0.836,0.081,115.909
-97,From Now On,0.532,0.673,-6.654,0.0322,0.219,0.313,122.295
-98,Babaji,0.513,0.544,-7.3,0.033,0.256,0.0862,115.856
-99,Downstream,0.433,0.374,-8.639,0.0306,0.872,0.0951,86.518
-100,Lover Boy,0.345,0.579,-6.036,0.036,0.0341,0.0937,114.152
-101,Give A Little Bit,0.531,0.818,-5.358,0.0452,0.0694,0.263,90.767
-102,Even In The Quietest Moments,0.431,0.598,-7.406,0.0288,0.338,0.131,132.392
-103,Fool's Overture,0.406,0.306,-10.482,0.0372,0.313,0.0727,135.272
-104,September Song,0.614,0.615,-6.7,0.0444,0.054,0.0921,95.941
-105,September Song - Guitar Acoustic,0.593,0.394,-8.946,0.029,0.355,0.121,94.909
-106,The Mission: Gabriel's Oboe,0.161,0.261,-13.907,0.0376,0.978,0.134,70.282
-107,Miserere,0.306,0.0847,-18.283,0.0381,0.917,0.109,37.222
-108,The Sword,0.162,0.0439,-27.085,0.0458,0.978,0.0737,64.7
-109,Te Deum Guarani,0.298,0.216,-15.714,0.0372,0.984,0.128,81.074
-110,Gabriel's Oboe,0.0674,0.115,-22.558,0.0482,0.892,0.0878,74.7
-111,River,0.664,0.0687,-21.092,0.0349,0.869,0.0585,89.884
-112,The Mission,0.232,0.0928,-23.182,0.0443,0.988,0.0732,76.735
-113,Climb,0.092,0.0738,-18.457,0.0435,0.936,0.173,72.406
-114,Vita Nostra,0.474,0.362,-14.698,0.0298,0.881,0.0654,102.805
-115,Carlotta,0.594,0.00727,-17.865,0.055,0.849,0.0837,70.538
-116,Brothers,0.295,0.213,-18.724,0.0487,0.99,0.0845,113.496
-117,Falls,0.109,0.125,-18.873,0.0392,0.961,0.0972,81.08
-118,On Earth As It Is In Heaven,0.424,0.212,-19.552,0.0275,0.967,0.0482,96.107
-119,Gabriel's Oboe,0.233,0.195,-17.202,0.0461,0.96,0.0793,61.211
-120,The Mission: Gabriel's Oboe,0.161,0.261,-13.907,0.0376,0.978,0.134,70.282
-121,"Circle of Life - From ""The Lion King""/ Soundtrack",0.402,0.391,-16.112,0.0406,0.0634,0.296,83.789
-122,The Name Of The Game,0.621,0.646,-7.059,0.0285,0.274,0.0464,76.736
-123,Can't Take My Eyes off You - 2007 Remaster,0.577,0.82,-5.343,0.0533,0.371,0.0641,123.962
-124,Who Loves You,0.693,0.727,-9.643,0.0543,0.0437,0.142,137.525
-125,"December, 1963 (Oh What a Night!)",0.727,0.588,-9.568,0.0253,0.058,0.0414,104.413
-126,If the World Was Ending,0.479,0.399,-9.255,0.0693,0.759,0.19,139.09
-127,If the World Was Ending - feat. Julia Michaels,0.464,0.473,-10.086,0.129,0.866,0.109,75.801
-128,I Don't Want to Talk About It - 1989 Version,0.477,0.452,-10.682,0.0285,0.413,0.258,135.142
-129,I Don't Want to Talk About It - 2012 Remaster,0.509,0.397,-9.171,0.0277,0.743,0.131,130.709
-130,Mainstreet,0.505,0.747,-5.422,0.0308,0.064,0.244,139.865
-131,Wheat Kings,0.538,0.231,-17.375,0.032,0.425,0.118,159.28
-132,"10,000 Hours (with Justin Bieber)",0.654,0.63,-4.644,0.0259,0.153,0.111,89.991
-133,Long Time Running,0.402,0.297,-9.83,0.0461,0.71,0.102,79.414
-134,And So It Goes,0.433,0.0871,-14.532,0.0341,0.91,0.113,135.498
-135,O Magnum Mysterium,0.156,0.032,-25.919,0.0402,0.994,0.0773,134.465
-136,Solsbury Hill,0.678,0.631,-8.624,0.0301,0.355,0.376,102.378
-137,"Spaseniye sodelal yesi posrede zemli (Salvation is Created), Op. 25, No. 5",0.159,0.0181,-26.629,0.0454,0.989,0.0616,132.842
-138,I Would Be True (Irish Folk-Tune),0.241,0.106,-21.942,0.046,0.987,0.123,125.913
-139,Storms in Africa,0.499,0.177,-23.449,0.0341,0.837,0.107,104.065
-140,Only Time,0.418,0.249,-13.744,0.0301,0.841,0.112,82.803
-141,Geistliches Lied Op. 30,0.178,0.141,-21.639,0.0421,0.948,0.124,66.285
-142,Cantate Domino,0.142,0.186,-21.826,0.058,0.985,0.248,72.947
-143,Les Chansons Des Roses: IV. La Rose Complète,0.167,0.0239,-28.652,0.0395,0.987,0.102,134.954
-144,Requiem: In Remembrance,0.0972,0.0732,-31.606,0.0494,0.982,0.0767,78.0
-145,Indodana,0.193,0.1,-22.57,0.0394,0.966,0.113,130.617
-146,When I Need A Friend,0.224,0.28,-18.225,0.049,0.921,0.135,87.871
-147,We Hymn Thee,0.171,0.00347,-46.543,0.0474,0.987,0.107,121.643
-148,Everywhere - 2017 Remaster,0.73,0.487,-10.991,0.0303,0.258,0.0852,114.965
-149,iMi,0.489,0.396,-11.57,0.053,0.889,0.203,134.131
-150,Blindsided,0.671,0.147,-18.626,0.0366,0.958,0.144,115.298
-151,Re: Stacks,0.676,0.0812,-22.846,0.0398,0.979,0.118,125.053
-152,For Emma,0.669,0.613,-11.12,0.036,0.487,0.132,110.67
-153,Team,0.608,0.768,-15.33,0.0614,0.142,0.0936,116.634
-154,Creature Fear,0.39,0.129,-15.872,0.0519,0.928,0.271,103.039
-155,Lump Sum,0.478,0.321,-17.715,0.129,0.941,0.133,144.583
-156,The Wolves (Act I and II),0.466,0.165,-16.0,0.0486,0.774,0.0888,116.738
-157,All of the Stars,0.54,0.557,-6.097,0.0259,0.00886,0.307,75.035
-158,You & Me - Live in Paris,0.512,0.46,-11.353,0.0287,0.636,0.848,74.836
-159,You & Me - Flume Remix,0.593,0.392,-6.872,0.0257,0.382,0.131,75.065
-160,Never Be Like You (feat. Kai),0.444,0.557,-5.476,0.0602,0.453,0.152,115.058
-161,Sh'Diah,0.244,0.261,-11.007,0.03,0.888,0.15,54.406
-162,I Need My Girl,0.523,0.438,-11.49,0.0356,0.867,0.123,126.028
-163,Bloom - Bonus Track,0.592,0.416,-9.794,0.0246,0.882,0.112,96.002
-164,Yi,0.661,0.407,-21.583,0.747,0.73,0.862,78.382
-165,Jelmore,0.323,0.242,-10.955,0.073,0.979,0.0911,80.509
-166,Brighter!,0.625,0.469,-11.292,0.0251,0.217,0.124,108.516
-167,From Gold,0.391,0.435,-13.318,0.0364,0.921,0.0937,100.299
-168,Salem,0.567,0.483,-10.803,0.04,0.76,0.174,162.018
-169,Naked as We Came,0.367,0.208,-16.734,0.0363,0.629,0.106,172.358
-170,Arms,0.41,0.141,-18.564,0.0337,0.931,0.118,149.884
-171,Time After Time,0.628,0.248,-13.304,0.032,0.814,0.111,125.298
-172,Death with Dignity,0.51,0.16,-21.03,0.0395,0.986,0.113,170.063
-173,We Don't Eat,0.458,0.373,-12.432,0.0472,0.896,0.122,124.032
-174,Scared,0.505,0.4,-8.401,0.0324,0.453,0.125,114.345
-175,Bobcaygeon,0.408,0.689,-6.118,0.039,0.212,0.171,167.462
-176,"Grace, Too",0.469,0.543,-9.132,0.0296,0.00438,0.0886,83.717
-177,Flume,0.456,0.152,-16.977,0.0337,0.921,0.11,133.837
-178,Bad Time,0.56,0.916,-3.72,0.0393,0.228,0.0969,125.019
-179,Hold Me While You Wait,0.688,0.53,-5.507,0.0333,0.443,0.0995,106.958
-180,Someone You Loved,0.501,0.405,-5.679,0.0319,0.751,0.105,109.891
-181,Pink Rabbits,0.501,0.657,-7.332,0.0443,0.789,0.0908,110.11
-182,Shallow,0.572,0.385,-6.362,0.0308,0.371,0.231,95.799
-183,"Piano Sonata No. 21 in C Major, Op. 53, ""Waldstein"": III. Rondo: Allegretto moderato - Prestissimo",0.387,0.0327,-25.398,0.0337,0.982,0.0668,103.955
-184,Rocket Man (I Think It's Going To Be A Long Long Time),0.601,0.532,-9.119,0.0286,0.432,0.0925,136.571
-185,Your Song - Remastered,0.555,0.336,-9.916,0.0296,0.821,0.089,127.792
-186,Port of Call,0.598,0.494,-8.253,0.0278,0.79,0.295,126.047
-187,When I Die,0.423,0.612,-7.24,0.0342,0.0305,0.291,112.757
-188,Landslide,0.537,0.841,-5.777,0.0316,0.323,0.105,111.836
-189,Gibraltar,0.75,0.292,-8.988,0.0357,0.714,0.118,109.769
-190,Santa Fe,0.728,0.679,-6.764,0.0271,0.299,0.11,131.716
-191,Postcards from Italy,0.621,0.569,-7.318,0.0297,0.928,0.115,110.022
-192,Elephant Gun,0.171,0.626,-8.677,0.0486,0.873,0.0681,180.098
-193,Varieties of Exile,0.456,0.663,-8.067,0.0329,0.374,0.0762,89.924
-194,It Never Rains in Southern California,0.626,0.565,-10.027,0.0271,0.124,0.0811,116.61
-195,Baba O'Riley - Remix,0.404,0.589,-11.131,0.0396,0.364,0.196,117.952
-196,My Sweet Lord - Remastered 2014,0.537,0.701,-8.913,0.0335,0.0972,0.0832,120.919
-197,Piano Man,0.334,0.472,-8.792,0.0277,0.6,0.317,179.167
-198,Come and Get Your Love,0.674,0.785,-6.126,0.0535,0.127,0.0764,105.543
-199,I Feel It Coming,0.773,0.819,-5.946,0.118,0.428,0.0679,92.987
-200,Thunder Road,0.369,0.758,-5.871,0.0364,0.623,0.531,140.71
-201,Dreamboat Annie,0.497,0.409,-15.649,0.0335,0.142,0.185,114.823
-202,She's Out of My Life - Demo,0.492,0.0677,-16.376,0.043,0.818,0.0813,132.992
-203,Earth Song - Remastered Version,0.511,0.454,-6.802,0.0314,0.45,0.0865,138.308
-204,Human Nature,0.633,0.518,-10.046,0.0286,0.569,0.271,93.175
-205,You Are Not Alone,0.651,0.402,-9.303,0.028,0.639,0.0765,119.873
-206,Heal the World,0.545,0.485,-8.045,0.0485,0.537,0.104,80.948
-207,A Beautiful Sea,0.57,0.8,-6.936,0.0304,0.0194,0.277,138.071
-208,Up,0.668,0.427,-9.232,0.0338,0.0803,0.284,122.936
-209,Lost Without You,0.409,0.137,-9.169,0.0446,0.928,0.0706,162.08
-210,When We Were Young,0.377,0.595,-5.936,0.0489,0.303,0.095,144.464
-211,Heartbeats,0.433,0.198,-12.18,0.0351,0.899,0.151,176.254
-212,Photograph,0.617,0.696,-12.739,0.0282,0.0155,0.108,111.136
-213,The Wind,0.758,0.187,-18.963,0.0437,0.927,0.122,115.75
-214,The Long And Winding Road - Remastered 2009,0.299,0.329,-10.096,0.0279,0.756,0.0559,132.282
-215,Killing Me,0.455,0.224,-8.13,0.0323,0.899,0.0925,67.703
-216,What If This Is All The Love You Ever Get?,0.698,0.122,-10.132,0.0569,0.959,0.0948,147.597
-217,The Lakes,0.42,0.427,-9.565,0.0282,0.481,0.106,169.795
-218,Goshen,0.287,0.264,-9.857,0.0267,0.831,0.0968,99.283
-219,Chasing Cars,0.563,0.592,-4.571,0.0276,0.209,0.132,104.016
-220,I Only Know - What I Know Now,0.508,0.288,-17.021,0.0824,0.357,0.0744,134.675
-221,My Willing Heart,0.5,0.172,-13.501,0.0398,0.763,0.0838,109.982
-222,Timeless,0.69,0.329,-10.7,0.0337,0.0632,0.122,139.991
-223,Points,0.279,0.227,-17.144,0.0501,0.92,0.16,84.934
-224,Fall Creek Boys Choir,0.556,0.269,-12.234,0.0502,0.946,0.0834,99.902
-225,Love Me In Whatever Way,0.318,0.468,-11.578,0.0851,0.856,0.188,124.678
-226,Radio Silence,0.532,0.412,-9.641,0.0319,0.773,0.106,120.086
-227,The Wilhelm Scream,0.546,0.291,-12.252,0.138,0.784,0.0894,169.959
-228,Winter Birds,0.522,0.0471,-14.708,0.0381,0.864,0.124,143.262
-229,"Lions, Tigers & Bears",0.576,0.515,-6.178,0.0295,0.0788,0.118,95.406
-230,Retrograde,0.533,0.251,-11.283,0.0372,0.873,0.134,77.503
-231,Vincent,0.426,0.0906,-17.423,0.0484,0.967,0.0877,111.965
-232,Torch Song,0.465,0.621,-9.267,0.0292,0.662,0.102,159.646
-233,These Quiet Times,0.551,0.572,-8.274,0.025,0.829,0.101,129.999
-234,Why,0.531,0.471,-9.267,0.0236,0.28,0.133,90.941
-235,American Pie,0.526,0.509,-10.893,0.0628,0.6,0.144,138.318
-236,Invisible - Single Version,0.628,0.801,-6.146,0.027,0.102,0.0949,96.73
-237,Only You - 1999 Mix,0.823,0.693,-6.816,0.0279,0.326,0.0802,106.669
-238,Only You,0.748,0.559,-8.078,0.0362,0.204,0.0982,106.077
-239,"I've Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",0.417,0.425,-11.689,0.062,0.0418,0.0897,134.917
-240,Limit To Your Love,0.775,0.281,-10.216,0.096,0.549,0.0941,139.949
-241,I Need A Forest Fire,0.293,0.29,-11.596,0.0454,0.696,0.1,128.276
-242,A Case Of You,0.459,0.276,-11.192,0.08,0.933,0.114,166.912
-243,I Don't Know How To Love Him (Glee Cast Version),0.431,0.475,-6.349,0.0259,0.841,0.108,77.97
-244,I Don't Know How To Love Him,0.284,0.396,-6.761,0.028,0.699,0.129,79.628
-245,Lost Boy,0.71,0.0565,-15.099,0.0534,0.965,0.0889,123.994
-246,Kiss Me,0.589,0.227,-16.67,0.0498,0.64,0.0248,74.993
-247,This,0.588,0.0929,-14.301,0.0443,0.95,0.128,152.139
-248,Forever And Almost Always,0.554,0.276,-6.474,0.0303,0.889,0.112,80.426
-249,Leave Your Lover,0.448,0.255,-8.729,0.0387,0.944,0.104,141.259
-250,I'll Follow You,0.182,0.337,-9.528,0.0307,0.909,0.113,178.216
-251,Let Her Go,0.479,0.545,-7.346,0.0688,0.365,0.0963,74.897
-252,Give Me Love,0.526,0.328,-9.864,0.0461,0.694,0.112,116.068
-253,Run to You,0.24,0.0622,-10.022,0.0327,0.857,0.104,85.502
-254,Poison & Wine,0.285,0.186,-12.729,0.0288,0.76,0.104,153.848
-255,Say Something,0.407,0.147,-8.822,0.0355,0.857,0.0913,141.284
-256,Mad World,0.586,0.115,-13.64,0.0311,0.969,0.105,87.082
-257,Knockin' On Heaven's Door,0.526,0.118,-14.455,0.0444,0.983,0.111,129.029
-258,You'll Be In My Heart,0.569,0.739,-6.54,0.03,0.0644,0.0922,96.652
-259,Wake Me Up,0.616,0.209,-13.43,0.406,0.902,0.139,86.891
-260,I Got Some Moves,0.297,0.28,-13.071,0.0348,0.495,0.1,144.888
-261,Far Away Blues,0.328,0.0873,-26.225,0.0541,0.668,0.328,90.584
-262,Come Back Down,0.423,0.413,-10.371,0.0306,0.301,0.112,159.44
-263,Suitcase,0.301,0.0787,-17.36,0.0419,0.957,0.116,130.855
-264,Waiting On the World to Change,0.577,0.756,-5.82,0.115,0.159,0.249,176.75
-265,Your Body Is a Wonderland,0.647,0.729,-6.251,0.0236,0.0206,0.134,94.01
-266,XO,0.431,0.377,-9.753,0.0288,0.749,0.211,173.67
-267,This Is The Last Time,0.524,0.763,-6.732,0.0308,0.00196,0.125,131.675
-268,Silenced By The Night,0.515,0.809,-5.051,0.0288,0.00188,0.0983,111.985
-269,Sovereign Light Café,0.535,0.725,-5.861,0.0302,0.013,0.156,122.84
-270,"Tear Up This Town - Orchestral Version / From ""A Monster Calls"" Original Motion Picture Soundtrack",0.527,0.624,-8.951,0.0352,0.4,0.1,141.951
-271,Atlantic,0.477,0.791,-6.815,0.0329,0.00378,0.0852,130.005
-272,Try Again,0.472,0.521,-6.042,0.0288,0.182,0.0882,143.997
-273,Bend & Break,0.471,0.843,-3.592,0.0295,0.000734,0.163,137.92
-274,Everybody's Changing,0.515,0.835,-3.564,0.0293,0.00146,0.101,94.015
-275,Your Eyes Open,0.537,0.784,-5.705,0.0299,0.000454,0.239,129.986
-276,She Has No Time,0.528,0.565,-8.857,0.0313,0.512,0.0707,141.988
-277,Can't Stop Now,0.514,0.725,-4.11,0.0306,0.00593,0.143,123.999
-278,Sunshine,0.587,0.755,-6.414,0.0256,0.425,0.104,100.014
-279,Untitled 1,0.586,0.775,-7.222,0.0279,0.0157,0.0686,103.975
-280,Hamburg Song,0.4,0.187,-11.204,0.0382,0.926,0.0906,122.029
-281,Somewhere Only We Know,0.453,0.655,-4.22,0.0259,0.0794,0.0849,172.012
-282,Woods,0.193,0.352,-10.821,0.0921,0.936,0.102,77.129
-283,Fall Creek Boys Choir,0.4,0.259,-13.135,0.0617,0.943,0.1,99.831
-284,Lost In The World,0.608,0.746,-5.249,0.184,0.115,0.427,117.072
-285,Skinny Love,0.593,0.263,-14.029,0.0567,0.844,0.127,76.379
-286,Best Day Of My Life,0.673,0.902,-2.392,0.0346,0.0591,0.0558,100.012
-287,Let It Go,0.546,0.311,-10.396,0.0288,0.818,0.107,147.464
-288,On Top Of The World,0.635,0.926,-5.589,0.151,0.0893,0.0928,100.048
-289,America's Sweetheart,0.528,0.928,-3.925,0.0664,0.0208,0.376,128.009
-290,Sweet Creature,0.427,0.262,-8.541,0.0276,0.746,0.068,104.085
-291,Photograph,0.614,0.379,-10.48,0.0476,0.607,0.0986,107.989
-292,Work,0.725,0.534,-6.238,0.0946,0.0752,0.0919,91.974
-293,Malibu,0.565,0.782,-6.413,0.0506,0.0577,0.0757,140.004
-294,Pretty Girl - Cheat Codes X CADE Remix,0.703,0.868,-4.661,0.0291,0.15,0.104,121.03
-295,Something Just Like This,0.617,0.635,-6.769,0.0317,0.0498,0.164,103.019
-296,It Ain't Me - Tiësto's AFTR:HRS Remix,0.645,0.657,-5.362,0.084,0.0162,0.0607,115.088
-297,One Dance,0.792,0.625,-5.609,0.0536,0.00776,0.329,103.967
-298,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",0.609,0.668,-4.284,0.0367,0.0552,0.167,80.924
-299,Shape of You,0.825,0.652,-3.183,0.0802,0.581,0.0931,95.977
-300,Castle on the Hill,0.461,0.834,-4.868,0.0989,0.0232,0.14,135.007
+,name,uri,danceability,energy,loudness,speechiness,acousticness,liveness
+0,I Don't Want to Talk About It - 2008 Remaster,spotify:track:2JWKzkQbYsNzx019WyGzaH,0.472,0.373,-12.98,0.0262,0.872,0.147
+1,Perfect,spotify:track:0tgVpDi06FyKpA1z0VMD4v,0.599,0.448,-6.312,0.0232,0.163,0.106
+2,Hot Tears,spotify:track:1aU0F8KL0vaKQacSMQRN9d,0.699,0.453,-9.67,0.0428,0.0622,0.0958
+3,Without A Word,spotify:track:4e6dpHanuFVUxou9bKkLDN,0.579,0.171,-14.495,0.0303,0.901,0.111
+4,Águas De Março,spotify:track:15ouqiBsgL12olEwP3COsH,0.654,0.393,-13.392,0.129,0.865,0.123
+5,I'm Like A Bird,spotify:track:2ze7s5CrESggiWA3RpDYIy,0.622,0.616,-5.107,0.0349,0.147,0.218
+6,Godspeed,spotify:track:5WfACgyEk4rwdWU3rrzNt1,0.395,0.174,-10.313,0.043,0.916,0.104
+7,exile (feat. Bon Iver),spotify:track:4pvb0WLRcMtbPGmtejJJ6y,0.298,0.38,-8.426,0.0287,0.778,0.11
+8,By My Side (feat. Rosie Carney),spotify:track:3N89qRJrSE6Cj0XunVhbru,0.437,0.108,-17.152,0.0312,0.936,0.11
+9,Flotten,spotify:track:1oPUKK8x3T8O6KxBhblyHu,0.51,0.294,-17.615,0.0292,0.861,0.112
+10,Against All Odds (Take a Look at Me Now) - 2016 Remaster,spotify:track:63CHa6rmamv9OsehkRD8oz,0.58,0.498,-6.901,0.0277,0.198,0.132
+11,Beneath Your Beautiful (feat. Emeli Sandé),spotify:track:2EcsgXlxz99UMDSPg5T8RF,0.558,0.522,-5.857,0.036,0.228,0.104
+12,When I Was Your Man,spotify:track:0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,-8.648,0.0434,0.932,0.088
+13,Video Killed The Radio Star,spotify:track:7o7E1nrHWncYY7PY94gCiX,0.68,0.678,-11.548,0.0754,0.103,0.204
+14,Dancing In The Moonlight,spotify:track:55GxhCTq6SY3tFTVh7z1nR,0.653,0.719,-5.262,0.0363,0.684,0.408
+15,When Doves Cry,spotify:track:51H2y6YrNNXcy3dfc3qSbA,0.729,0.989,-4.613,0.049,0.0102,0.443
+16,Can We Still Be Friends? - 2015 Remaster,spotify:track:5MRIlJbi80rdC8mHUh5bpk,0.57,0.276,-13.47,0.0394,0.748,0.0836
+17,Follow You Follow Me - 2007 Remaster,spotify:track:6gyU6PaPpzTCUYzZcVICwk,0.534,0.715,-9.988,0.0335,0.125,0.0761
+18,In Too Deep,spotify:track:6sawhOATOEe0cGzXJfMJQE,0.688,0.505,-6.624,0.0251,0.475,0.0852
+19,In Too Deep (feat. Kiana Ledé),spotify:track:3nGhp4FuIaitNYn4s7XHaX,0.661,0.29,-14.568,0.0453,0.605,0.0629
+20,Coming Home,spotify:track:4xqYYY5VoaiwDuYJqx7Yo9,0.381,0.44,-11.258,0.0307,0.718,0.109
+21,John My Beloved,spotify:track:4gKy8hIsmWOcspv6W1yTgy,0.422,0.0589,-21.116,0.0542,0.991,0.0801
+22,Dynamite,spotify:track:0t1kP63rueHleOhQkYSXFY,0.746,0.765,-4.41,0.0993,0.0112,0.0936
+23,Friends (feat. Bon Iver),spotify:track:0ZpBPavoID3eDbaXKSWpAD,0.457,0.477,-9.323,0.102,0.281,0.0914
+24,8 (circle),spotify:track:47IklCMgkgWvI4jpkdrop0,0.404,0.408,-10.77,0.0349,0.911,0.117
+25,So Cool,spotify:track:3GgdEZJy5bxm2ZjC90ibDC,0.58,0.469,-10.02,0.0332,0.57,0.193
+26,Nobody,spotify:track:7KGhl55Ju1fu4983kFPjPa,0.877,0.178,-13.987,0.102,0.776,0.107
+27,Babylon,spotify:track:5jLqVCGlKNYrLqCA1Qy4FV,0.737,0.543,-10.403,0.0374,0.0598,0.103
+28,Father And Son,spotify:track:19slC7k8bsPOAKDjHYLU2W,0.499,0.33,-11.467,0.0348,0.589,0.102
+29,"Baby, I Love Your Way - Live",spotify:track:1ksayCHVLH4eKFm43GFokU,0.518,0.786,-5.739,0.0357,0.448,0.7
+30,Don't Dream It's Over,spotify:track:7G7tgVYORlDuVprcYHuFJh,0.439,0.422,-17.227,0.0409,0.0148,0.0697
+31,Weather With You,spotify:track:6tXnRSvuNgOq4QcxpIN54r,0.643,0.614,-12.878,0.0279,0.25,0.214
+32,Fallen,spotify:track:02HtMmMgd4SYJx76Alv71n,0.688,0.137,-21.644,0.0353,0.801,0.0629
+33,That's Entertainment,spotify:track:7MH7TkjQ4RA1vG454dciw0,0.567,0.653,-11.524,0.0336,0.211,0.0639
+34,I Won't Run From It,spotify:track:7aW3SM5qFJu0IYVOWrAvRQ,0.615,0.719,-8.194,0.0325,0.702,0.148
+35,Lost Without You,spotify:track:3cWI6Hj9LQ0MfMuhw9uSMc,0.386,0.136,-9.267,0.0458,0.932,0.0653
+36,AUATC,spotify:track:2X1PJ3l0wM4D42EiEdVh5W,0.38,0.416,-10.237,0.0383,0.886,0.156
+37,Refiner,spotify:track:0bHcGi6iafYk4TUrqvDYya,0.342,0.18,-14.847,0.0364,0.872,0.145
+38,Brave,spotify:track:6Uy6K3KdmUdAfelUp0SeXn,0.551,0.836,-3.838,0.0524,0.00502,0.0425
+39,Gravity,spotify:track:4oa14QBfWRDfJy2agySy0L,0.27,0.275,-10.357,0.0356,0.834,0.146
+40,We Find Love,spotify:track:1TPLsNVlofwX1txcE9gZZF,0.51,0.363,-8.635,0.0304,0.853,0.109
+41,no song without you,spotify:track:3KKUf8F2hktFscLgbH4YwR,0.778,0.462,-12.729,0.0359,0.463,0.11
+42,Fool For You,spotify:track:3pEGNvJWWAfDSuUrQjEpEV,0.593,0.287,-11.496,0.0631,0.832,0.104
+43,I Don't Wanna Be Okay Without You,spotify:track:5HKv1sFHbXgmXBih203HxT,0.532,0.319,-7.461,0.0288,0.399,0.138
+44,Fair-Weather Friend,spotify:track:1I9GllIh1R3EMvTFT5Tfn7,0.68,0.34,-6.985,0.115,0.56,0.0705
+45,Just The Same,spotify:track:5hmjpbBTy8TxV9wDKifSub,0.426,0.295,-8.337,0.0764,0.637,0.0941
+46,Photograph,spotify:track:1uXH4OpzVZPEBbI3mGkxZz,0.397,0.251,-10.346,0.0337,0.946,0.0841
+47,The Most Beautiful Thing,spotify:track:5unXHHcSQLGO19RuVqZB6d,0.806,0.362,-10.381,0.0345,0.535,0.111
+48,All Because of You,spotify:track:1VyAPe81AxMkjAEtZRHHlH,0.43,0.177,-13.335,0.0311,0.798,0.113
+49,Teach You - Acoustic,spotify:track:6BWt5CEKdM8v95Bz4xQnCl,0.497,0.304,-8.526,0.0396,0.899,0.102
+50,Like Someone In Love,spotify:track:0PwaDQfnz4J8WF8221gv7n,0.597,0.462,-7.816,0.0597,0.649,0.11
+51,Home Is,spotify:track:3nur4bNfmRCoLFxk9ubHHK,0.148,0.147,-19.377,0.0355,0.976,0.0987
+52,Places We Won't Walk,spotify:track:30QNjcM3Q1GnLFIIJjWQL1,0.388,0.0859,-16.061,0.0472,0.969,0.108
+53,Running Away,spotify:track:0wpjR48SjbwsHxd7CeaRse,0.574,0.591,-8.559,0.0762,0.814,0.108
+54,I Hear a Symphony,spotify:track:3iJya7m7trpGv570Ske30n,0.207,0.243,-8.181,0.0306,0.925,0.118
+55,Old Fashioned,spotify:track:0j7sWqI2qyFaVSdcwzcb9N,0.74,0.242,-9.003,0.0472,0.736,0.0972
+56,He Won't Hold You (feat. Rapsody),spotify:track:20IRK6kPPtRXCJQyCZwFdU,0.488,0.364,-12.955,0.123,0.781,0.367
+57,Home,spotify:track:4wLZ4zPM9c4oe1VV8ejdWV,0.608,0.37,-9.207,0.0306,0.844,0.112
+58,Don't Know Much (with Aaron Neville),spotify:track:5z3ZDMP02xF33yCvPFnct3,0.401,0.285,-11.005,0.0327,0.657,0.158
+59,All My Life (with Aaron Neville) - 1999 Remaster,spotify:track:6mHrQvPTT3i4ZwwcR4gZR2,0.602,0.523,-8.753,0.034,0.444,0.05
+60,Firestone,spotify:track:1I8tHoNBFTuoJAlh4hfVVE,0.704,0.634,-7.374,0.0428,0.393,0.0952
+61,Bad Day,spotify:track:0mUyMawtxj1CJ76kn9gIZK,0.599,0.785,-4.013,0.0309,0.448,0.151
+62,This Head I Hold,spotify:track:1tzPSule9WZ9B8SujHv8fp,0.663,0.873,-4.915,0.0328,0.0268,0.261
+63,I Say a Little Prayer,spotify:track:3NfxSdJnVdon1axzloJgba,0.592,0.355,-14.051,0.0352,0.478,0.0585
+64,The Promise,spotify:track:3wyMwEpzoIWBGqEkHeEvi6,0.575,0.918,-3.881,0.0585,0.008,0.0394
+65,Sober,spotify:track:3C57ewlHARCVqeH3KiYkma,0.657,0.7,-4.911,0.382,0.34,0.0992
+66,Watch Me Dance,spotify:track:03LhreaNy6FWQxSxTX9u9H,0.771,0.29,-13.413,0.0341,0.323,0.0645
+67,I Wish,spotify:track:1eCf3kMSUXWAv5W75bQ0oO,0.787,0.329,-11.869,0.0447,0.187,0.133
+68,Follow,spotify:track:2uROM73VxtppgLSE2k27nf,0.785,0.367,-8.483,0.0363,0.113,0.0902
+69,Crazy Dream,spotify:track:122nU5ENr0Y3CX22FvlKi4,0.852,0.664,-5.179,0.123,0.12,0.0737
+70,Man Like You,spotify:track:673BqQR0tNM3VtzcV3Ul2Q,0.302,0.225,-14.08,0.0313,0.761,0.11
+71,Isn't She Lovely,spotify:track:23H8PpuhyTDHwpqcDm7vS6,0.505,0.481,-16.006,0.435,0.992,0.378
+72,It Runs Through Me,spotify:track:02CygBCQOIyEuhNZqHHcNx,0.802,0.607,-11.028,0.289,0.205,0.246
+73,To Find You,spotify:track:1XeMjR6YhWQZfYyU118jM9,0.388,0.128,-13.73,0.0338,0.842,0.103
+74,Hold Me Now,spotify:track:1B1Y52ftMyCmgjPsEMQDqq,0.787,0.517,-12.794,0.0332,0.658,0.292
+75,Would You Be So Kind,spotify:track:3ZiuxcBeRanTjfHzVBuuQe,0.662,0.614,-9.621,0.204,0.158,0.126
+76,A Groovy Kind of Love,spotify:track:5OHUTC4EvTbL0DuZQRIGGX,0.452,0.306,-9.632,0.0274,0.235,0.0989
+77,If I'm Being Honest,spotify:track:5K2cBicu96Pf4mrBv3Jojk,0.435,0.191,-12.436,0.0396,0.919,0.114
+78,Ain't No Love In The Heart Of The City - Single Version,spotify:track:4qYHnP5AmKzXbJhciPV8si,0.518,0.376,-18.248,0.0431,0.933,0.0976
+79,Ain't No Sunshine,spotify:track:1k1Bqnv2R0uJXQN4u6LKYt,0.479,0.416,-11.451,0.124,0.457,0.118
+80,Nights On Broadway,spotify:track:4JjcCdm0RSPuvQWnZyrNkm,0.573,0.641,-9.196,0.0443,0.235,0.859
+81,"Jive Talkin' - From ""Saturday Night Fever"" Soundtrack",spotify:track:4t0Pj3iBnSCZv5pDEPNmzG,0.811,0.545,-12.969,0.0579,0.155,0.156
+82,Fanny (Be Tender With My Love),spotify:track:3GgjAKjC5kMDhWdNAPa4Lj,0.449,0.531,-9.815,0.0263,0.192,0.0858
+83,How Can You Mend A Broken Heart,spotify:track:0kyo5ucRQNJbpHGpKuBhXd,0.314,0.299,-12.019,0.0437,0.568,0.0904
+84,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",spotify:track:49OMJ1prsRA7ZYgrAjz70c,0.632,0.683,-6.434,0.0383,0.163,0.847
+85,"Night Fever - From ""Saturday Night Fever"" Soundtrack",spotify:track:5KgbyD2lQQlIupAaPjgiXg,0.733,0.795,-7.224,0.0249,0.0266,0.083
+86,Love So Right,spotify:track:2rVxsVGLFssDfM5B9BUL0K,0.575,0.405,-13.346,0.0279,0.345,0.645
+87,As,spotify:track:1uirE2Am209htwgK4KVrGD,0.399,0.238,-13.727,0.0329,0.9,0.0809
+88,Pretty Great,spotify:track:5OEh0t74eilX1HnfVy9E4g,0.802,0.529,-6.044,0.0425,0.333,0.23
+89,What Have I Done,spotify:track:0hpaWop2LUln6yJ7b0eOza,0.625,0.581,-5.466,0.0358,0.191,0.117
+90,Outnumbered,spotify:track:4Ta3PhWmY50ZLU1uhKFKPE,0.614,0.684,-5.79,0.157,0.247,0.0976
+91,Power Over Me,spotify:track:4tViDtaHuSLnh7HVJTrKhs,0.319,0.841,-4.232,0.147,0.0518,0.106
+92,I Won't Say (I'm In Love),spotify:track:03wwl6PnZyltRjeMkxWzUQ,0.675,0.456,-10.354,0.0512,0.231,0.173
+93,Don't Know Why,spotify:track:6KE4QXE06QDEn7zRFkpxdk,0.367,0.23,-16.453,0.0418,0.875,0.106
+94,Time Alone With You (feat. Daniel Caesar),spotify:track:04jVEb76Kw5OrmGtlXlHxI,0.669,0.352,-11.18,0.455,0.322,0.484
+95,Hideaway,spotify:track:00BTDWR6xCaGdst6cPKkpF,0.39,0.39,-15.14,0.0529,0.744,0.0771
+96,Feel (feat. Lianne La Havas),spotify:track:7MGNHuYwmm9UjQgdVciO1v,0.611,0.134,-13.96,0.0537,0.836,0.081
+97,From Now On,spotify:track:3DyDoJibN4Cx2zvvtIVQqE,0.532,0.673,-6.654,0.0322,0.219,0.313
+98,Babaji,spotify:track:5OzYi2jOFdouhyovank4wj,0.513,0.544,-7.3,0.033,0.256,0.0862
+99,Downstream,spotify:track:5sr9gYvCGCFL97E2EFmnSy,0.433,0.374,-8.639,0.0306,0.872,0.0951
+100,Lover Boy,spotify:track:32KA3mC4zolVSzpMC7V8dE,0.345,0.579,-6.036,0.036,0.0341,0.0937
+101,Give A Little Bit,spotify:track:6XUHsYE38CEbYunT983O9G,0.531,0.818,-5.358,0.0452,0.0694,0.263
+102,Even In The Quietest Moments,spotify:track:4PqGEhQlHBczN9hBbui8eY,0.431,0.598,-7.406,0.0288,0.338,0.131
+103,Fool's Overture,spotify:track:5pSSEkT0963muzzIjsVkrs,0.406,0.306,-10.482,0.0372,0.313,0.0727
+104,September Song,spotify:track:0zbzrhfVS9S2TszW3wLQZ7,0.614,0.615,-6.7,0.0444,0.054,0.0921
+105,September Song - Guitar Acoustic,spotify:track:7bMkcxifc4EjIQKw49EC7h,0.593,0.394,-8.946,0.029,0.355,0.121
+106,The Mission: Gabriel's Oboe,spotify:track:225fJLttmPO3vj4aqxmvnU,0.161,0.261,-13.907,0.0376,0.978,0.134
+107,Miserere,spotify:track:3amCzcn0prNN2mbkpXjo72,0.306,0.0847,-18.283,0.0381,0.917,0.109
+108,The Sword,spotify:track:4O1tc5JFn0qRXcRbnX1EwK,0.162,0.0439,-27.085,0.0458,0.978,0.0737
+109,Te Deum Guarani,spotify:track:6QLNELfUZWfJBfCRChM9rs,0.298,0.216,-15.714,0.0372,0.984,0.128
+110,Gabriel's Oboe,spotify:track:52mJSw7xeoXKRfGACPqlTI,0.0674,0.115,-22.558,0.0482,0.892,0.0878
+111,River,spotify:track:6G3o4P2XgU6F1x3HJrVyiW,0.664,0.0687,-21.092,0.0349,0.869,0.0585
+112,The Mission,spotify:track:4ypudCmFDkvLrj5DY6VJzj,0.232,0.0928,-23.182,0.0443,0.988,0.0732
+113,Climb,spotify:track:7hnCaQEval6RNY94wx7XMv,0.092,0.0738,-18.457,0.0435,0.936,0.173
+114,Vita Nostra,spotify:track:0NzVed3pTChmrJSRQL1QYG,0.474,0.362,-14.698,0.0298,0.881,0.0654
+115,Carlotta,spotify:track:1RY4eykVMFT4On38o7WKY1,0.594,0.00727,-17.865,0.055,0.849,0.0837
+116,Brothers,spotify:track:1bA0ykot0FXsQZ2QYgErSD,0.295,0.213,-18.724,0.0487,0.99,0.0845
+117,Falls,spotify:track:73DOPGOfWFTdxj8CdW9A6L,0.109,0.125,-18.873,0.0392,0.961,0.0972
+118,On Earth As It Is In Heaven,spotify:track:0DefmqHMWLchBf3VyLTYKq,0.424,0.212,-19.552,0.0275,0.967,0.0482
+119,Gabriel's Oboe,spotify:track:6opPrJUpq4Pl5c84eCwLmo,0.233,0.195,-17.202,0.0461,0.96,0.0793
+120,The Mission: Gabriel's Oboe,spotify:track:4tZIHyRe46VpgRYMJWcqPO,0.161,0.261,-13.907,0.0376,0.978,0.134
+121,"Circle of Life - From ""The Lion King""/ Soundtrack",spotify:track:0HU5JnVaKNTWf6GykV9Zn8,0.402,0.391,-16.112,0.0406,0.0634,0.296
+122,The Name Of The Game,spotify:track:1XgCkYbSfqNBIWTppsMsMv,0.621,0.646,-7.059,0.0285,0.274,0.0464
+123,Can't Take My Eyes off You - 2007 Remaster,spotify:track:1qcOwwX5SvRcLQls0jDXMa,0.577,0.82,-5.343,0.0533,0.371,0.0641
+124,Who Loves You,spotify:track:587P51HbZkZCjq9foest2V,0.693,0.727,-9.643,0.0543,0.0437,0.142
+125,"December, 1963 (Oh What a Night!)",spotify:track:7ePFDzrnLt3Ynqgy2UFWri,0.727,0.588,-9.568,0.0253,0.058,0.0414
+126,If the World Was Ending,spotify:track:5nzZGxQGfIc117nKyCQV8G,0.479,0.399,-9.255,0.0693,0.759,0.19
+127,If the World Was Ending - feat. Julia Michaels,spotify:track:2kJwzbxV2ppxnQoYw4GLBZ,0.464,0.473,-10.086,0.129,0.866,0.109
+128,I Don't Want to Talk About It - 1989 Version,spotify:track:6OPi0rUWmRWJhe1BjeOlJb,0.477,0.452,-10.682,0.0285,0.413,0.258
+129,I Don't Want to Talk About It - 2012 Remaster,spotify:track:3idQKsObDAmfcIgz220iak,0.509,0.397,-9.171,0.0277,0.743,0.131
+130,Mainstreet,spotify:track:0XVR94voJPToKX1XoOw0ot,0.505,0.747,-5.422,0.0308,0.064,0.244
+131,Wheat Kings,spotify:track:53o05J0uSWOedPwN4Z0oyo,0.538,0.231,-17.375,0.032,0.425,0.118
+132,"10,000 Hours (with Justin Bieber)",spotify:track:2wrJq5XKLnmhRXHIAf9xBa,0.654,0.63,-4.644,0.0259,0.153,0.111
+133,Long Time Running,spotify:track:21c2GKryM716pv7NqDvykS,0.402,0.297,-9.83,0.0461,0.71,0.102
+134,And So It Goes,spotify:track:1u7kQUb3lQcpHaYRfia13A,0.433,0.0871,-14.532,0.0341,0.91,0.113
+135,O Magnum Mysterium,spotify:track:6JILuUvZmIC9aUnfInMSpQ,0.156,0.032,-25.919,0.0402,0.994,0.0773
+136,Solsbury Hill,spotify:track:6vZZtivPrtpggT5SSXsYTy,0.678,0.631,-8.624,0.0301,0.355,0.376
+137,"Spaseniye sodelal yesi posrede zemli (Salvation is Created), Op. 25, No. 5",spotify:track:0xmyzDblNF2iyiQTdGtG9u,0.159,0.0181,-26.629,0.0454,0.989,0.0616
+138,I Would Be True (Irish Folk-Tune),spotify:track:5Al6V1M15hB7cfNzlOHFNk,0.241,0.106,-21.942,0.046,0.987,0.123
+139,Storms in Africa,spotify:track:4kY6ePKuSFjPUW7pqI57Mk,0.499,0.177,-23.449,0.0341,0.837,0.107
+140,Only Time,spotify:track:6FLwmdmW77N1Pxb1aWsZmO,0.418,0.249,-13.744,0.0301,0.841,0.112
+141,Geistliches Lied Op. 30,spotify:track:0FldhGHYh36vlLJIXrxqus,0.178,0.141,-21.639,0.0421,0.948,0.124
+142,Cantate Domino,spotify:track:4faZ04TttU8PZ22WyP6xKu,0.142,0.186,-21.826,0.058,0.985,0.248
+143,Les Chansons Des Roses: IV. La Rose Complète,spotify:track:3Gq6XIb071z9qeEMfK7Ykq,0.167,0.0239,-28.652,0.0395,0.987,0.102
+144,Requiem: In Remembrance,spotify:track:0zvFcwf7uKie6J6ISsLoCy,0.0972,0.0732,-31.606,0.0494,0.982,0.0767
+145,Indodana,spotify:track:6D2fY8zzKYnikKaVsDbDAJ,0.193,0.1,-22.57,0.0394,0.966,0.113
+146,When I Need A Friend,spotify:track:0UvUivL70eDwhTWBd8S38I,0.141,0.28,-18.225,0.0618,0.921,0.135
+147,We Hymn Thee,spotify:track:5Zce99quHtHmUXaETn3vf2,0.171,0.00347,-46.543,0.0474,0.987,0.107
+148,Everywhere - 2017 Remaster,spotify:track:254bXAqt3zP6P50BdQvEsq,0.73,0.487,-10.991,0.0303,0.258,0.0852
+149,iMi,spotify:track:5p2vqFW6PVyE38GJlCVIHv,0.489,0.396,-11.57,0.053,0.889,0.203
+150,Blindsided,spotify:track:4cTD99OSLy19Uh2exKRQNa,0.671,0.147,-18.626,0.0366,0.958,0.144
+151,Re: Stacks,spotify:track:2LthqyP0MLhGUBICwR1535,0.676,0.0812,-22.846,0.0398,0.979,0.118
+152,For Emma,spotify:track:0mP897I93DZwdgtjkSriwj,0.669,0.613,-11.12,0.036,0.487,0.132
+153,Team,spotify:track:2WNJUbFqc5cZBKUq6O4tpm,0.608,0.768,-15.33,0.0614,0.142,0.0936
+154,Creature Fear,spotify:track:7H2zem6ynyk67mqqXDIwDS,0.39,0.129,-15.872,0.0519,0.928,0.271
+155,Lump Sum,spotify:track:0kz4nEVFUNcYXLgzOKQnWh,0.478,0.321,-17.715,0.129,0.941,0.133
+156,The Wolves (Act I and II),spotify:track:2K9aNlFNoh2UVY7K7iPMnS,0.466,0.165,-16.0,0.0486,0.774,0.0888
+157,All of the Stars,spotify:track:3Th56VIq2sEaEmPPETu7p5,0.54,0.557,-6.097,0.0259,0.00886,0.307
+158,You & Me - Live in Paris,spotify:track:0aQQdwWsM4JizazUmE83UB,0.512,0.46,-11.353,0.0287,0.636,0.848
+159,You & Me - Flume Remix,spotify:track:1OWPYsuHD3AaYpFGtTk1IO,0.593,0.392,-6.872,0.0257,0.382,0.131
+160,Never Be Like You (feat. Kai),spotify:track:5WI2ltQIdwgzf1SNE76JyR,0.444,0.557,-5.476,0.0602,0.453,0.152
+161,Sh'Diah,spotify:track:0Ncb7nwBtO0cl9SwuSTHwH,0.244,0.261,-11.007,0.03,0.888,0.15
+162,I Need My Girl,spotify:track:7rbCL7W893Zonbfnevku5s,0.523,0.438,-11.49,0.0356,0.867,0.123
+163,Bloom - Bonus Track,spotify:track:41yIvlFgvGwxq8qTqAR7eG,0.592,0.416,-9.794,0.0246,0.882,0.112
+164,Yi,spotify:track:1sgBtdd3OgBABV9L5tM8K8,0.661,0.407,-21.583,0.747,0.73,0.862
+165,Jelmore,spotify:track:0v3PdoLZrm0RVfS8sHnADp,0.323,0.242,-10.955,0.073,0.979,0.0911
+166,Brighter!,spotify:track:2EbL9RN1CpNav0UzTQVRdm,0.625,0.469,-11.292,0.0251,0.217,0.124
+167,From Gold,spotify:track:3AQhXfkD5BijatJVv2DsJV,0.391,0.435,-13.318,0.0364,0.921,0.0937
+168,Salem,spotify:track:0Kp0CPUzFcEqhBbHoRKtbm,0.567,0.483,-10.803,0.04,0.76,0.174
+169,Naked as We Came,spotify:track:1lUdXbhl6u6QMQZRTAhlWW,0.365,0.208,-16.734,0.0363,0.63,0.106
+170,Arms,spotify:track:48HT7Zzd3We4ZjG82lsbdK,0.41,0.141,-18.564,0.0337,0.931,0.118
+171,Time After Time,spotify:track:5kOBEsqVNwi4udPRbagNIV,0.628,0.248,-13.304,0.032,0.814,0.111
+172,Death with Dignity,spotify:track:4fpEuKIzTLmMJnYwFU0oqr,0.51,0.16,-21.03,0.0395,0.986,0.113
+173,We Don't Eat,spotify:track:2Fpf5a5fGDWSHNj1iIPc5W,0.458,0.373,-12.432,0.0472,0.896,0.122
+174,Scared,spotify:track:6sW8kBQjLE0Jh4JPw43riO,0.505,0.4,-8.401,0.0324,0.453,0.125
+175,Bobcaygeon,spotify:track:1L7Sp4k1fP1sAVRqUw1CWQ,0.408,0.689,-6.118,0.039,0.212,0.171
+176,"Grace, Too",spotify:track:0qC02cAOQmm4eJR4Kn9pcY,0.469,0.543,-9.132,0.0296,0.00438,0.0886
+177,Flume,spotify:track:12DA0XIh6NqwthSOQ4d9af,0.456,0.152,-16.977,0.0337,0.921,0.11
+178,Bad Time,spotify:track:5h2XR7VWvJ7jPhbvCyuYee,0.56,0.916,-3.72,0.0393,0.228,0.0969
+179,Hold Me While You Wait,spotify:track:60iSKGrGazRzICtMjADNSM,0.688,0.53,-5.507,0.0333,0.443,0.0995
+180,Someone You Loved,spotify:track:7qEHsqek33rTcFNT9PFqLf,0.501,0.405,-5.679,0.0319,0.751,0.105
+181,Pink Rabbits,spotify:track:193ZaXTaD0dPz66pUYS3SQ,0.501,0.657,-7.332,0.0443,0.789,0.0908
+182,Shallow,spotify:track:2VxeLyX666F8uXCJ0dZF8B,0.572,0.385,-6.362,0.0308,0.371,0.231
+183,"Piano Sonata No. 21 in C Major, Op. 53, ""Waldstein"": III. Rondo: Allegretto moderato - Prestissimo",spotify:track:73hMuvtzMhIOIas4RC7tMp,0.387,0.0327,-25.398,0.0337,0.982,0.0668
+184,Rocket Man (I Think It's Going To Be A Long Long Time),spotify:track:2zvot9pY2FNl1E94kc4K8M,0.601,0.532,-9.119,0.0286,0.432,0.0925
+185,Your Song - Remastered,spotify:track:2bUXfclD8DwJwwUENtSCWu,0.555,0.336,-9.916,0.0296,0.821,0.089
+186,Port of Call,spotify:track:1DyokmQ7JjJIoYpgCq4JG5,0.598,0.494,-8.253,0.0278,0.79,0.295
+187,When I Die,spotify:track:3J53aCv1bxqwe5EkBSqzO5,0.423,0.612,-7.24,0.0342,0.0305,0.291
+188,Landslide,spotify:track:0PV6IYqZ1yXxaON7kxGsm4,0.537,0.841,-5.777,0.0316,0.323,0.105
+189,Gibraltar,spotify:track:5WUxLqUKQdEZ5oW3uZiSni,0.75,0.292,-8.988,0.0357,0.714,0.118
+190,Santa Fe,spotify:track:3gQZdiGlObKaY274Q3lnoH,0.728,0.679,-6.764,0.0271,0.299,0.11
+191,Postcards from Italy,spotify:track:4qBHDoJFUUSvTa4aZJfEuw,0.621,0.569,-7.318,0.0297,0.928,0.115
+192,Elephant Gun,spotify:track:0MtVmhAx6CxNuxFIUc6Mj9,0.171,0.626,-8.677,0.0486,0.873,0.0681
+193,Varieties of Exile,spotify:track:026OCabht6zFyPRLCPBBzY,0.456,0.663,-8.067,0.0329,0.374,0.0762
+194,It Never Rains in Southern California,spotify:track:6tunhVGD8C05MZNjSVIsjw,0.626,0.565,-10.027,0.0271,0.124,0.0811
+195,Baba O'Riley - Remix,spotify:track:0TzCim4sBQZ9N0AAG25lOM,0.404,0.589,-11.131,0.0396,0.364,0.196
+196,My Sweet Lord - Remastered 2014,spotify:track:0qdQUeKVyevrbKhAo0ibxS,0.537,0.701,-8.913,0.0335,0.0972,0.0832
+197,Piano Man,spotify:track:3FCto7hnn1shUyZL42YgfO,0.334,0.472,-8.792,0.0277,0.6,0.317
+198,Come and Get Your Love,spotify:track:5519RhpzObr9Mn3iqoeodJ,0.674,0.785,-6.126,0.0535,0.127,0.0764
+199,I Feel It Coming,spotify:track:3dhjNA0jGA8vHBQ1VdD6vV,0.773,0.819,-5.946,0.118,0.428,0.0679
+200,Thunder Road,spotify:track:56lhDZNQ5J47aog6mGKeGk,0.369,0.758,-5.871,0.0364,0.623,0.531
+201,Dreamboat Annie,spotify:track:7IyuwRPPNq6gYI1vzqKsrU,0.497,0.409,-15.649,0.0335,0.142,0.185
+202,She's Out of My Life - Demo,spotify:track:3oiEFdnT6VWhlrDjCYxxyk,0.492,0.0677,-16.376,0.043,0.818,0.0813
+203,Earth Song - Remastered Version,spotify:track:2BMCVC1kKFxiw1fy5CpwAh,0.511,0.454,-6.802,0.0314,0.45,0.0865
+204,Human Nature,spotify:track:7jcDPNcPbX5dy2yw8yUsBO,0.633,0.518,-10.046,0.0286,0.569,0.271
+205,You Are Not Alone,spotify:track:3AoeaZs8dFemFJr3JdzOL0,0.651,0.402,-9.303,0.028,0.639,0.0765
+206,Heal the World,spotify:track:7woW97CfcWaKtuC6W5BP2K,0.545,0.485,-8.045,0.0485,0.537,0.104
+207,A Beautiful Sea,spotify:track:5EsjSTpYqT4OasWIUiEklb,0.57,0.8,-6.936,0.0304,0.0194,0.277
+208,Up,spotify:track:44TV58bBAJnBO9keXGFUJM,0.668,0.427,-9.232,0.0338,0.0803,0.284
+209,Lost Without You,spotify:track:6EelrDeZGS0Z81NhXevtrJ,0.409,0.137,-9.169,0.0446,0.928,0.0706
+210,When We Were Young,spotify:track:7ilS0BPWS8ek2P2GaxH3cP,0.377,0.595,-5.936,0.0489,0.303,0.095
+211,Heartbeats,spotify:track:2S6ke1uHlqyqfU9ixg9rQH,0.433,0.198,-12.18,0.0351,0.899,0.151
+212,Photograph,spotify:track:1hwN2eAwsXgktvw9Qe8TrP,0.617,0.696,-12.739,0.0282,0.0155,0.108
+213,The Wind,spotify:track:1rHMg7t3LICgfTl2OsDn46,0.758,0.187,-18.963,0.0437,0.927,0.122
+214,The Long And Winding Road - Remastered 2009,spotify:track:3mlMpmY8oZIBFc39D9zLbh,0.299,0.329,-10.096,0.0279,0.756,0.0559
+215,Killing Me,spotify:track:7rzAHrmTxLRRyrYDlcFR1U,0.455,0.224,-8.13,0.0323,0.899,0.0925
+216,What If This Is All The Love You Ever Get?,spotify:track:5CZ1XU3DiHnhGM3NpySKyh,0.698,0.122,-10.132,0.0569,0.959,0.0948
+217,The Lakes,spotify:track:5KK2jdGKWhW9TAkagdUEE9,0.42,0.427,-9.565,0.0282,0.481,0.106
+218,Goshen,spotify:track:3tnC1ZyTZra63cuDlaQrXy,0.287,0.264,-9.857,0.0267,0.831,0.0968
+219,Chasing Cars,spotify:track:11bD1JtSjlIgKgZG2134DZ,0.563,0.592,-4.571,0.0276,0.209,0.132
+220,I Only Know - What I Know Now,spotify:track:6uknuuAG4PkPmNu3trIELV,0.508,0.288,-17.021,0.0824,0.357,0.0744
+221,My Willing Heart,spotify:track:2pKmB8t9HNJfW4bVFmnu1v,0.5,0.172,-13.501,0.0398,0.763,0.0838
+222,Timeless,spotify:track:2ZSFgKhbrnwgWm1fGNuXz3,0.69,0.329,-10.7,0.0337,0.0632,0.122
+223,Points,spotify:track:6vkmPY29nHhybgA8S8AyGb,0.279,0.227,-17.144,0.0501,0.92,0.16
+224,Fall Creek Boys Choir,spotify:track:4ldAHJkji64Ke0WlxL9fj9,0.556,0.269,-12.234,0.0502,0.946,0.0834
+225,Love Me In Whatever Way,spotify:track:6pGqjFdeCbDhlHtRK3VEj7,0.318,0.468,-11.578,0.0851,0.856,0.188
+226,Radio Silence,spotify:track:0ZPPbwJD2WVU8HdMsVtChk,0.532,0.412,-9.641,0.0319,0.773,0.106
+227,The Wilhelm Scream,spotify:track:688DZF6e1MH5Uf409dwaHm,0.546,0.291,-12.252,0.138,0.784,0.0894
+228,Winter Birds,spotify:track:56YkpkKgo432vro5Kt3F4D,0.522,0.0471,-14.708,0.0381,0.864,0.124
+229,"Lions, Tigers & Bears",spotify:track:7zqM7Wm2xJLZ50qAnTLoHD,0.576,0.515,-6.178,0.0295,0.0788,0.118
+230,Retrograde,spotify:track:2IqjKEBiz0CdLKdkXhxw84,0.533,0.251,-11.283,0.0372,0.873,0.134
+231,Vincent,spotify:track:0hQkqM37pYkOuWDDoxk3Ce,0.426,0.0906,-17.423,0.0484,0.967,0.0877
+232,Torch Song,spotify:track:1gsgLwatCiw4b26UzvdY9T,0.465,0.621,-9.267,0.0292,0.662,0.102
+233,These Quiet Times,spotify:track:5RyZ9anytY9FX28xz9m04J,0.551,0.572,-8.274,0.025,0.829,0.101
+234,Why,spotify:track:2fYYmPNwDaNpw1KRSxpQ5H,0.531,0.471,-9.267,0.0236,0.28,0.133
+235,American Pie,spotify:track:2QgWuCtBpNIpl5trmKCxRf,0.526,0.509,-10.893,0.0628,0.6,0.144
+236,Invisible - Single Version,spotify:track:170Xk9uyoGQKoJcRgE0jZk,0.628,0.801,-6.146,0.027,0.102,0.0949
+237,Only You - 1999 Mix,spotify:track:205jljonE9xabEhnLRQuQT,0.823,0.693,-6.816,0.0279,0.326,0.0802
+238,Only You,spotify:track:3UIXmHdXWroLttiNWNeDlz,0.748,0.559,-8.078,0.0362,0.204,0.0982
+239,"I've Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",spotify:track:3skk6UIXV4kepq2bdYy97g,0.417,0.425,-11.689,0.062,0.0418,0.0897
+240,Limit To Your Love,spotify:track:33BnSMHgX0AsbKSIbkuMwh,0.775,0.281,-10.216,0.096,0.549,0.0941
+241,I Need A Forest Fire,spotify:track:0TLAptKgYxe7F0KewWH6X6,0.293,0.29,-11.596,0.0454,0.696,0.1
+242,A Case Of You,spotify:track:6tNrUI6H15kqWBff0HcEZr,0.459,0.276,-11.192,0.08,0.933,0.114
+243,I Don't Know How To Love Him (Glee Cast Version),spotify:track:02Ybr92oVKaMykhM3SfTqK,0.431,0.475,-6.349,0.0259,0.841,0.108
+244,I Don't Know How To Love Him,spotify:track:6DSq5IghuzKhH3AYatSb6h,0.284,0.396,-6.761,0.028,0.699,0.129
+245,Lost Boy,spotify:track:4h0zU3O9R5xzuTmNO7dNDU,0.71,0.0565,-15.099,0.0534,0.965,0.0889
+246,Kiss Me,spotify:track:0Tel1fmuCxEFV6wBLXsEdk,0.589,0.227,-16.67,0.0498,0.64,0.0248
+247,This,spotify:track:0pJfsPQesJyCnR5XWZyvj9,0.588,0.0929,-14.301,0.0443,0.95,0.128
+248,Forever And Almost Always,spotify:track:1kcSxFrGtb8HSLdc7AWenO,0.554,0.276,-6.474,0.0303,0.889,0.112
+249,Leave Your Lover,spotify:track:4bdPdSIHu8OeWpLWEEB2ts,0.448,0.255,-8.729,0.0387,0.944,0.104
+250,I'll Follow You,spotify:track:1KGU8NoWemAXIgfFoenfzk,0.182,0.337,-9.528,0.0307,0.909,0.113
+251,Let Her Go,spotify:track:6GmUVqe73u5YRfUUynZK6I,0.479,0.545,-7.346,0.0688,0.365,0.0963
+252,Give Me Love,spotify:track:0SuG9kyzGRpDqrCWtgD6Lq,0.526,0.328,-9.864,0.0461,0.694,0.112
+253,Run to You,spotify:track:5SzDZJAxd49lckDqJpADTj,0.24,0.0622,-10.022,0.0327,0.857,0.104
+254,Poison & Wine,spotify:track:3wsZYuHJrk3lssa7V7jvye,0.285,0.186,-12.729,0.0288,0.76,0.104
+255,Say Something,spotify:track:6Vc5wAMmXdKIAM7WUoEb7N,0.407,0.147,-8.822,0.0355,0.857,0.0913
+256,Mad World,spotify:track:3GZyz9MvyHVRUMP9nSEfzR,0.586,0.115,-13.64,0.0311,0.969,0.105
+257,Knockin' On Heaven's Door,spotify:track:2GSFSTeDDRw9WXpc63T6up,0.526,0.118,-14.455,0.0444,0.983,0.111
+258,You'll Be In My Heart,spotify:track:0xEIhF83JaaXLG0RPUViHJ,0.569,0.739,-6.54,0.03,0.0644,0.0922
+259,Wake Me Up,spotify:track:0ygAYQQy7bfDN6gH640bbl,0.616,0.209,-13.43,0.406,0.902,0.139
+260,I Got Some Moves,spotify:track:7oBdcuCtau3lPfBJKONKt6,0.297,0.28,-13.071,0.0348,0.495,0.1
+261,Far Away Blues,spotify:track:2ZZTCLRLn9FaQqReqVDVKK,0.328,0.0873,-26.225,0.0541,0.668,0.328
+262,Come Back Down,spotify:track:2VDRYl9C0VYtdjQy9l3qDM,0.423,0.413,-10.371,0.0306,0.301,0.112
+263,Suitcase,spotify:track:5T1FwpWK6LWOTXqBU4uQTI,0.301,0.0787,-17.36,0.0419,0.957,0.116
+264,Waiting On the World to Change,spotify:track:5imShWWzwqfAJ9gXFpGAQh,0.577,0.756,-5.82,0.115,0.159,0.249
+265,Your Body Is a Wonderland,spotify:track:7vFv0yFGMJW3qVXbAd9BK9,0.647,0.729,-6.251,0.0236,0.0206,0.134
+266,XO,spotify:track:7cpCU3Denug5NGZsSpQl8v,0.431,0.377,-9.753,0.0288,0.749,0.211
+267,This Is The Last Time,spotify:track:4l9gNfeexV0FJ7traSwtNf,0.524,0.763,-6.732,0.0308,0.00196,0.125
+268,Silenced By The Night,spotify:track:0BhGZmaQ1SET53qGkGvwxD,0.515,0.809,-5.051,0.0288,0.00188,0.0983
+269,Sovereign Light Café,spotify:track:4QRkCwqwHFaZ7xeoR9CHL6,0.535,0.725,-5.861,0.0302,0.013,0.156
+270,"Tear Up This Town - Orchestral Version / From ""A Monster Calls"" Original Motion Picture Soundtrack",spotify:track:2zk3PHJUr75UgIosDoopBG,0.527,0.624,-8.951,0.0352,0.4,0.1
+271,Atlantic,spotify:track:3LdKufJAbl8faACLyn73dI,0.477,0.791,-6.815,0.0329,0.00378,0.0852
+272,Try Again,spotify:track:4gDeFO5FbKDvsoNvkLYIq8,0.472,0.521,-6.042,0.0288,0.182,0.0882
+273,Bend & Break,spotify:track:1hoyGI5Hj81BT7Rkb9uXGF,0.471,0.843,-3.592,0.0295,0.000734,0.163
+274,Everybody's Changing,spotify:track:5hkdfA87RZvNaxl6XiveOA,0.515,0.835,-3.564,0.0293,0.00146,0.101
+275,Your Eyes Open,spotify:track:7g6rAe8WxaDMYV8VmH6Rqv,0.537,0.784,-5.705,0.0299,0.000454,0.239
+276,She Has No Time,spotify:track:6nVDI0zfw7RDlNvbjkUWhf,0.528,0.565,-8.857,0.0313,0.512,0.0707
+277,Can't Stop Now,spotify:track:5FY2njcIQptvWO1sboVbuk,0.514,0.725,-4.11,0.0306,0.00593,0.143
+278,Sunshine,spotify:track:2ZJx6l80uxWnYhVLZybbPh,0.587,0.755,-6.414,0.0256,0.425,0.104
+279,Untitled 1,spotify:track:6QnSX0c7FgfIfPw8uDOXfF,0.586,0.775,-7.222,0.0279,0.0157,0.0686
+280,Hamburg Song,spotify:track:02jZMEqhrdFHFt1D4aBAVo,0.4,0.187,-11.204,0.0382,0.926,0.0906
+281,Somewhere Only We Know,spotify:track:0ll8uFnc0nANY35E0Lfxvg,0.453,0.655,-4.22,0.0259,0.0794,0.0849
+282,Woods,spotify:track:35zX9FPuA6qg9bqx79eskS,0.193,0.352,-10.821,0.0921,0.936,0.102
+283,Fall Creek Boys Choir,spotify:track:2BMx3N1HFThlRbiScVcDez,0.4,0.259,-13.135,0.0617,0.943,0.1
+284,Lost In The World,spotify:track:2Im64pIz6m0EJKdUe6eZ8r,0.608,0.746,-5.249,0.184,0.115,0.427
+285,Skinny Love,spotify:track:2cbic3TiUENlJX91y67ARR,0.593,0.263,-14.029,0.0567,0.844,0.127
+286,Best Day Of My Life,spotify:track:5Hroj5K7vLpIG4FNCRIjbP,0.673,0.902,-2.392,0.0346,0.0591,0.0558
+287,Let It Go,spotify:track:13HVjjWUZFaWilh2QUJKsP,0.546,0.311,-10.396,0.0288,0.818,0.107
+288,On Top Of The World,spotify:track:6Qj1WXW41Mn3Fh9V2sHphM,0.635,0.926,-5.589,0.151,0.0893,0.0928
+289,America's Sweetheart,spotify:track:2NcstvY8H9PVQ0DMNGHckh,0.528,0.928,-3.925,0.0664,0.0208,0.376
+290,Sweet Creature,spotify:track:5kRPPEWFJIMox5qIkQkiz5,0.427,0.262,-8.541,0.0276,0.746,0.068
+291,Photograph,spotify:track:6fxVffaTuwjgEk5h9QyRjy,0.614,0.379,-10.48,0.0476,0.607,0.0986
+292,Work,spotify:track:32lmL4vQAAotg6MrJnhlQZ,0.725,0.534,-6.238,0.0946,0.0752,0.0919
+293,Malibu,spotify:track:2habSXqcJGExM6JJyskY7O,0.565,0.782,-6.413,0.0506,0.0577,0.0757
+294,Pretty Girl - Cheat Codes X CADE Remix,spotify:track:39IsH7B5byx8NRlEKlZVg9,0.703,0.868,-4.661,0.0291,0.15,0.104
+295,Something Just Like This,spotify:track:6RUKPb4LETWmmr3iAEQktW,0.617,0.635,-6.769,0.0317,0.0498,0.164
+296,It Ain't Me - Tiësto's AFTR:HRS Remix,spotify:track:6PnfLB5Z1DtXFMqhNn6wDY,0.645,0.657,-5.362,0.084,0.0162,0.0607
+297,One Dance,spotify:track:1zi7xx7UVEFkmKfv06H8x0,0.792,0.625,-5.609,0.0536,0.00776,0.329
+298,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",spotify:track:3DXncPQOG4VBw3QHh3S817,0.609,0.668,-4.284,0.0367,0.0552,0.167
+299,Shape of You,spotify:track:7qiZfU4dY1lWllzX7mPBI3,0.825,0.652,-3.183,0.0802,0.581,0.0931
+300,Castle on the Hill,spotify:track:6PCUP3dWmTjcTtXY02oFdT,0.461,0.834,-4.868,0.0989,0.0232,0.14
